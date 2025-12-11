@@ -1,0 +1,1001 @@
+id,product_name,brand,model,category,gender,release_date,release_year,retail_price_usd,main_color,colorway,avg_resale_price_usd,resale_premium_pct,is_collab,collab_partner
+1,Air Jordan 1 Retro High OG Chicago,Jordan,Air Jordan 1,Basketball,Men,2015-10-31,2015,160,Red,Varsity Red/Black/Sail,240,50,0,
+2,Air Jordan 1 Retro High OG Bred,Jordan,Air Jordan 1,Basketball,Men,2016-09-03,2016,160,Black,Black/Varsity Red/White,80,-50,0,
+3,Air Jordan 1 Retro High OG Royal,Jordan,Air Jordan 1,Basketball,Men,2017-04-01,2017,160,Blue,Game Royal/Black/White,168,5,0,
+4,Air Jordan 1 Retro High OG Shadow,Jordan,Air Jordan 1,Basketball,Men,2018-04-14,2018,160,Grey,Medium Grey/Black/White,240,50,0,
+5,Air Jordan 1 Retro High OG Court Purple,Jordan,Air Jordan 1,Basketball,Men,2018-09-22,2018,160,Purple,Court Purple/Sail/Black,320,100,0,
+6,Air Jordan 1 Retro High OG UNC,Jordan,Air Jordan 1,Basketball,Men,2015-10-10,2015,160,Blue,University Blue/White/Black,240,50,0,
+7,Air Jordan 3 Retro White Cement,Jordan,Air Jordan 3,Basketball,Men,2018-02-17,2018,200,White,White/Fire Red/Cement Grey,300,50,0,
+8,Air Jordan 3 Retro Black Cement,Jordan,Air Jordan 3,Basketball,Men,2018-02-17,2018,200,Black,Black/Fire Red/Cement Grey,100,-50,0,
+9,Air Jordan 3 Retro True Blue,Jordan,Air Jordan 3,Basketball,Men,2016-11-25,2016,200,Blue,White/Fire Red/True Blue,200,0,0,
+10,Air Jordan 3 Retro UNC,Jordan,Air Jordan 3,Basketball,Men,2020-03-07,2020,200,Blue,Valor Blue/Tech Grey/White,240,20,0,
+11,Air Jordan 4 Retro Bred,Jordan,Air Jordan 4,Basketball,Men,2019-05-04,2019,200,Black,Black/Fire Red/Cement Grey,300,50,0,
+12,Air Jordan 4 Retro White Oreo,Jordan,Air Jordan 4,Basketball,Men,2021-07-03,2021,200,White,White/Tech Grey/Black,190,-5,0,
+13,Air Jordan 4 Retro Fire Red,Jordan,Air Jordan 4,Basketball,Men,2020-11-28,2020,200,Red,White/Fire Red/Black,100,-50,0,
+14,Air Jordan 4 Retro Lightning,Jordan,Air Jordan 4,Basketball,Men,2021-08-28,2021,220,Yellow,Tour Yellow/White/Dark Blue Grey,440,100,0,
+15,Air Jordan 4 Retro Midnight Navy,Jordan,Air Jordan 4,Basketball,Men,2022-10-29,2022,210,Blue,Midnight Navy/White/Light Smoke Grey,315,50,0,
+16,Air Jordan 11 Retro Concord,Jordan,Air Jordan 11,Basketball,Men,2018-12-08,2018,220,White,White/Black/Dark Concord,330,50,0,
+17,Air Jordan 11 Retro Bred,Jordan,Air Jordan 11,Basketball,Men,2019-12-14,2019,220,Black,Black/White/Varsity Red,220,0,0,
+18,Air Jordan 11 Retro Space Jam,Jordan,Air Jordan 11,Basketball,Men,2016-12-10,2016,220,Black,Black/Dark Concord/White,110,-50,0,
+19,Air Jordan 1 Retro Low Travis Scott Mocha,Jordan,Air Jordan 1,Basketball,Men,2019-07-19,2019,150,Brown,Dark Mocha/Black/Sail,750,400,1,Travis Scott
+20,Air Jordan 4 Retro Off-White Sail,Jordan,Air Jordan 4,Basketball,Women,2020-07-25,2020,200,Cream,Sail/White/Muslin,1000,400,1,Off-White
+21,Nike Dunk Low Panda,Nike,Dunk Low,Skate,Men,2021-03-10,2021,100,Black,White/Black/White,95,-5,0,
+22,Nike Dunk Low USC,Nike,Dunk Low,Skate,Men,2022-09-15,2022,110,Red,Gym Red/White/Amarillo,121,10,0,
+23,Nike Dunk Low Kentucky,Nike,Dunk Low,Skate,Men,2020-03-14,2020,100,Blue,Varsity Royal/White,150,50,0,
+24,Nike Dunk Low Syracuse,Nike,Dunk Low,Skate,Men,2020-03-14,2020,100,Orange,Orange Blaze/White,70,-30,0,
+25,Nike Dunk Low UNC,Nike,Dunk Low,Skate,Men,2021-06-24,2021,100,Blue,University Blue/White,300,200,0,
+26,Nike Dunk High Michigan,Nike,Dunk High,Skate,Men,2020-09-23,2020,120,Yellow,Varsity Maize/Midnight Navy,60,-50,0,
+27,Nike Dunk High Syracuse,Nike,Dunk High,Skate,Men,2021-03-10,2021,120,Orange,Orange Blaze/White,120,0,0,
+28,Nike Dunk High Panda,Nike,Dunk High,Skate,Women,2021-07-01,2021,120,Black,Black/White/Black,144,20,0,
+29,Nike Dunk Low Off-White Pine Green,Nike,Dunk Low,Skate,Men,2019-12-20,2019,170,Green,Pine Green/White,850,400,1,Off-White
+30,Nike Dunk Low Travis Scott,Nike,Dunk Low,Skate,Men,2020-02-29,2020,150,Brown,Multi-Color/Midnight Navy,750,400,1,Travis Scott
+31,Nike Air Force 1 Low Triple White,Nike,Air Force 1,Lifestyle,Men,2015-05-01,2015,100,White,White/White/White,100,0,0,
+32,Nike Air Force 1 Low Black,Nike,Air Force 1,Lifestyle,Men,2016-03-15,2016,100,Black,Black/Black/Black,95,-5,0,
+33,Nike Air Force 1 Low Off-White MCA,Nike,Air Force 1,Lifestyle,Men,2019-06-24,2019,150,Blue,University Blue/Metallic Silver,750,400,1,Off-White
+34,Nike Air Force 1 Low Travis Scott Cactus Jack,Nike,Air Force 1,Lifestyle,Men,2019-11-16,2019,160,Brown,Multi-Color/Muted Bronze,800,400,1,Travis Scott
+35,Nike Air Force 1 Low Para Noise,Nike,Air Force 1,Lifestyle,Men,2019-11-23,2019,200,Black,Black/White,300,50,1,G-Dragon
+36,Nike Air Max 90 Infrared,Nike,Air Max 90,Running,Men,2020-11-09,2020,140,Red,White/Black/Infrared,140,0,0,
+37,Nike Air Max 90 Duck Camo,Nike,Air Max 90,Running,Men,2020-03-26,2020,140,Green,Infrared/Black/Duck Camo,180,28.57,0,
+38,Nike Air Max 90 Off-White Desert Ore,Nike,Air Max 90,Running,Men,2019-02-07,2019,160,Brown,Desert Ore/Hyper Jade,800,400,1,Off-White
+39,Nike Kobe 6 Protro Grinch,Nike,Kobe 6 Protro,Basketball,Men,2020-12-24,2020,180,Green,Green Apple/Volt,1000,455.56,0,
+40,Nike Kobe 6 Protro Mambacita Sweet 16,Nike,Kobe 6 Protro,Basketball,Women,2022-05-01,2022,180,White,White/Black/Gold,900,400,0,
+41,adidas Ultraboost Triple White,adidas,Ultraboost,Running,Men,2015-02-11,2015,180,White,White/White/White,180,0,0,
+42,adidas Ultraboost Black,adidas,Ultraboost,Running,Men,2015-02-11,2015,180,Black,Core Black/Core Black,144,-20,0,
+43,adidas Ultraboost 3.0 Oreo,adidas,Ultraboost,Running,Men,2016-12-01,2016,180,Black,Core Black/Footwear White,270,50,0,
+44,adidas Ultraboost 1.0 Cream,adidas,Ultraboost,Running,Men,2015-12-01,2015,180,Cream,Chalk/Chalk/Chalk,540,200,0,
+45,adidas Ultraboost 1.0 Miami Hurricanes,adidas,Ultraboost,Running,Men,2016-10-01,2016,180,Green,Collegiate Green/Orange,270,50,0,
+46,adidas Forum Low White Blue,adidas,Forum Low,Lifestyle,Men,2021-04-01,2021,100,White,Cloud White/Blue,70,-30,0,
+47,adidas Forum Low Bad Bunny Pink Easter Egg,adidas,Forum Low,Lifestyle,Men,2021-04-04,2021,160,Pink,Light Pink/Core White,800,400,1,Bad Bunny
+48,adidas Forum Low White Green,adidas,Forum Low,Lifestyle,Men,2021-05-15,2021,100,Green,Cloud White/Green,100,0,0,
+49,adidas Samba OG White Black,adidas,Samba OG,Lifestyle,Men,2022-01-15,2022,100,White,Cloud White/Core Black/Gum,150,50,0,
+50,adidas Samba OG Black White,adidas,Samba OG,Lifestyle,Women,2022-01-15,2022,100,Black,Core Black/Cloud White/Gum,95,-5,0,
+51,Yeezy Boost 350 V2 Zebra,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2017-02-25,2017,220,White,White/Core Black/Red,660,200,0,
+52,Yeezy Boost 350 V2 Beluga,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2016-11-25,2016,220,Grey,Steel Grey/Solar Red,220,0,0,
+53,Yeezy Boost 350 V2 Black Red,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2017-02-11,2017,220,Black,Core Black/Red,110,-50,0,
+54,Yeezy Boost 350 V2 Blue Tint,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2017-12-16,2017,220,Blue,Blue Tint/Grey/Red,330,50,0,
+55,Yeezy Boost 350 V2 Static Reflective,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2018-12-26,2018,220,Grey,Static/Static/Static,1100,400,0,
+56,Yeezy Boost 350 V2 Cloud White,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2019-09-21,2019,220,White,Cloud White/Cloud White,330,50,0,
+57,Yeezy Boost 350 V2 Cinder,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2020-03-21,2020,220,Brown,Cinder/Cinder,190,-13.64,0,
+58,Yeezy Boost 350 V2 Onyx,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2022-06-20,2022,230,Black,Onyx/Onyx/Onyx,345,50,0,
+59,Yeezy Slide Bone,Yeezy,Yeezy Slide,Slides,Men,2020-04-16,2020,55,Cream,Bone/Bone/Bone,41.25,-25,0,
+60,Yeezy Slide Onyx,Yeezy,Yeezy Slide,Slides,Men,2022-03-07,2022,70,Black,Onyx/Onyx/Onyx,140,100,0,
+61,New Balance 550 White Green,New Balance,550,Basketball,Men,2020-09-15,2020,110,White,White/Green,121,10,0,
+62,New Balance 550 White Red,New Balance,550,Basketball,Men,2020-09-15,2020,110,White,White/Red,110,0,0,
+63,New Balance 550 Aime Leon Dore Navy,New Balance,550,Basketball,Men,2020-10-09,2020,130,Blue,White/Navy,520,300,1,Aime Leon Dore
+64,New Balance 550 UNC,New Balance,550,Basketball,Men,2021-06-01,2021,110,Blue,White/Light Blue,165,50,0,
+65,New Balance 550 Panda,New Balance,550,Basketball,Men,2021-03-01,2021,110,Black,White/Black,99,-10,0,
+66,New Balance 990v5 Grey,New Balance,990v5,Running,Men,2019-04-01,2019,175,Grey,Castlerock/Grey,175,0,0,
+67,New Balance 990v5 Navy,New Balance,990v5,Running,Men,2020-05-01,2020,175,Blue,Navy/Grey,262.5,50,0,
+68,New Balance 990v5 Black,New Balance,990v5,Running,Men,2020-01-15,2020,175,Black,Black/Grey,140,-20,0,
+69,New Balance 2002R Protection Pack Rain Cloud,New Balance,2002R,Running,Men,2021-08-14,2021,150,Grey,Rain Cloud/Grey,600,300,0,
+70,New Balance 2002R Protection Pack Sea Salt,New Balance,2002R,Running,Men,2021-08-14,2021,150,White,Sea Salt/White,750,400,0,
+71,New Balance 2002R Mirage Grey,New Balance,2002R,Running,Men,2022-01-01,2022,150,Grey,Mirage Grey,225,50,0,
+72,New Balance 2002R Dark Navy,New Balance,2002R,Running,Men,2022-02-01,2022,150,Blue,Dark Navy/Grey,150,0,0,
+73,Puma RS-X Reinvent,Puma,RS-X,Lifestyle,Men,2018-10-15,2018,110,Multi,White/Blue/Red,165,50,0,
+74,Puma RS-X Toys,Puma,RS-X,Lifestyle,Men,2018-12-01,2018,110,Multi,Yellow/Blue/Red,55,-50,0,
+75,Puma RS-X Bold Black,Puma,RS-X,Lifestyle,Men,2019-03-10,2019,110,Black,Black/Yellow,110,0,0,
+76,Puma RS-X3 Puzzle,Puma,RS-X,Lifestyle,Men,2019-10-01,2019,120,Multi,Blue/Yellow/Red,180,50,0,
+77,ASICS Gel-Kayano 14 White Silver,ASICS,Gel-Kayano 14,Running,Men,2020-06-01,2020,150,White,White/Silver,150,0,0,
+78,ASICS Gel-Kayano 14 Black Silver,ASICS,Gel-Kayano 14,Running,Men,2020-07-01,2020,150,Black,Black/Silver,75,-50,0,
+79,ASICS Gel-Kayano 14 Cream,ASICS,Gel-Kayano 14,Running,Men,2021-05-15,2021,150,Cream,Cream/Black,600,300,1,Pleasures
+80,ASICS Gel-Kayano 14 JJJJound Silver,ASICS,Gel-Kayano 14,Running,Men,2022-08-19,2022,180,Silver,Silver/White,900,400,1,JJJJound
+81,Nike SB Dunk Low Ben & Jerry Chunky Dunky,Nike,Dunk Low,Skate,Men,2020-05-23,2020,100,Multi,Blue/Green/Yellow,800,700,1,Ben & Jerry's
+82,Nike SB Dunk Low Travis Scott,Nike,Dunk Low,Skate,Men,2020-02-29,2020,150,Brown,Black/Phantom,750,400,1,Travis Scott
+83,Nike SB Dunk Low What The Paul,Nike,Dunk Low,Skate,Men,2021-05-22,2021,150,Multi,Multi-Color/Multi-Color,900,500,1,Paul Rodriguez
+84,Air Jordan 1 Retro High Off-White Chicago,Jordan,Air Jordan 1,Basketball,Men,2017-11-20,2017,190,Red,White/Black/Varsity Red,1520,700,1,Off-White
+85,Air Jordan 1 Retro High Travis Scott,Jordan,Air Jordan 1,Basketball,Men,2019-05-11,2019,175,Brown,Dark Mocha/Black/Sail,1225,600,1,Travis Scott
+86,Air Jordan 4 Retro Union Guava Ice,Jordan,Air Jordan 4,Basketball,Men,2020-08-29,2020,250,Pink,Guava Ice/Light Bone,1250,400,1,Union LA
+87,New Balance 550 Rich Paul,New Balance,550,Basketball,Men,2021-12-10,2021,140,Cream,White/Blue/Yellow,700,400,1,Rich Paul
+88,New Balance 550 White Purple,New Balance,550,Basketball,Women,2022-02-15,2022,120,Purple,White/Purple,114,-5,0,
+89,New Balance 990v5 Aime Leon Dore,New Balance,990v5,Running,Men,2019-11-15,2019,200,Grey,Grey/Yellow,1000,400,1,Aime Leon Dore
+90,adidas Samba Wales Bonner Silver,adidas,Samba OG,Lifestyle,Women,2023-06-07,2023,180,Silver,Silver/Black,900,400,1,Wales Bonner
+91,adidas Samba Wales Bonner Cream,adidas,Samba OG,Lifestyle,Women,2023-06-07,2023,180,Cream,Cream/Brown,270,50,1,Wales Bonner
+92,adidas Ultraboost DNA x Parley,adidas,Ultraboost,Running,Men,2018-06-08,2018,200,Blue,Blue/White,200,0,1,Parley
+93,Nike Air Max 1 Travis Scott Cactus Jack Saturn Gold,Nike,Air Max 1,Running,Men,2022-05-27,2022,160,Yellow,Saturn Gold/Tea Tree Mist,800,400,1,Travis Scott
+94,Nike Air Max 1 x Patta Monarch,Nike,Air Max 1,Running,Men,2021-10-15,2021,160,Orange,Monarch/Metallic Silver,320,100,1,Patta
+95,Nike Air Max 1 Anniversary Red,Nike,Air Max 1,Running,Men,2017-03-26,2017,140,Red,University Red/White,140,0,0,
+96,Air Jordan 3 Retro A Ma Maniere,Jordan,Air Jordan 3,Basketball,Women,2021-06-10,2021,200,Cream,Whitestone/Medium Grey,1000,400,1,A Ma Maniere
+97,Air Jordan 1 Retro High A Ma Maniere,Jordan,Air Jordan 1,Basketball,Women,2021-12-03,2021,200,Burgundy,Burgundy Crush/Sail,600,200,1,A Ma Maniere
+98,Air Jordan 2 Retro Off-White Black Blue,Jordan,Air Jordan 2,Basketball,Men,2021-11-12,2021,250,Black,Black/Varsity Royal,1250,400,1,Off-White
+99,Nike LDWaffle Sacai Green Gusto,Nike,LDWaffle,Running,Men,2019-05-30,2019,155,Green,Green Gusto/Varsity Maize,775,400,1,Sacai
+100,Nike LDWaffle Sacai Summit White,Nike,LDWaffle,Running,Men,2019-05-30,2019,155,White,Summit White/Wolf Grey,310,100,1,Sacai
+101,Air Jordan 1 Retro High OG Lost and Found,Jordan,Air Jordan 1,Basketball,Men,2022-11-19,2022,180,Red,Varsity Red/Black/Sail/Muslin,360,100,0,
+102,Air Jordan 1 Retro High OG Hyper Royal,Jordan,Air Jordan 1,Basketball,Men,2021-04-17,2021,170,Blue,Hyper Royal/Light Smoke Grey/White,340,100,0,
+103,Air Jordan 1 Retro High OG University Blue,Jordan,Air Jordan 1,Basketball,Men,2021-03-06,2021,170,Blue,University Blue/White/Black,255,50,0,
+104,Air Jordan 1 Retro High OG Dark Mocha,Jordan,Air Jordan 1,Basketball,Men,2020-10-31,2020,170,Brown,Sail/Dark Mocha/Black,510,200,0,
+105,Air Jordan 1 Retro High OG Turbo Green,Jordan,Air Jordan 1,Basketball,Men,2019-02-15,2019,160,Green,Turbo Green/Sail/White,320,100,0,
+106,Air Jordan 1 Retro High OG Pine Green 2.0,Jordan,Air Jordan 1,Basketball,Men,2020-02-29,2020,170,Green,Black/White/Pine Green,85,-50,0,
+107,Air Jordan 1 Retro High OG Shadow 2.0,Jordan,Air Jordan 1,Basketball,Men,2021-05-15,2021,170,Grey,Light Smoke Grey/Black/White,187,10,0,
+108,Air Jordan 1 Retro High OG Court Purple 2.0,Jordan,Air Jordan 1,Basketball,Men,2020-04-11,2020,170,Purple,White/Court Purple/Black,170,0,0,
+109,Air Jordan 1 Retro High OG Patent Bred,Jordan,Air Jordan 1,Basketball,Men,2021-12-30,2021,170,Black,Black/Varsity Red/White,340,100,0,
+110,Air Jordan 1 Retro High OG Yellow Toe Taxi,Jordan,Air Jordan 1,Basketball,Men,2022-09-24,2022,180,Yellow,Taxi/Black/Sail,198,10,0,
+111,Air Jordan 4 Retro Military Black,Jordan,Air Jordan 4,Basketball,Men,2022-05-21,2022,210,White,White/Black/Neutral Grey,420,100,0,
+112,Air Jordan 4 Retro Red Thunder,Jordan,Air Jordan 4,Basketball,Men,2022-01-15,2022,190,Black,Black/Red,285,50,0,
+113,Air Jordan 4 Retro Taupe Haze,Jordan,Air Jordan 4,Basketball,Men,2021-02-27,2021,200,Brown,Taupe Haze/Oil Grey,400,100,0,
+114,Air Jordan 4 Retro SE Craft Photon Dust,Jordan,Air Jordan 4,Basketball,Men,2023-02-11,2023,210,Grey,Photon Dust/Pale Vanilla,168,-20,0,
+115,Air Jordan 4 Retro Black Canvas,Jordan,Air Jordan 4,Basketball,Men,2022-10-01,2022,210,Black,Black/Light Steel Grey,315,50,0,
+116,Air Jordan 11 Retro Cool Grey (2021),Jordan,Air Jordan 11,Basketball,Men,2021-12-11,2021,225,Grey,Medium Grey/White/Cool Grey,337.5,50,0,
+117,Air Jordan 11 Retro Jubilee 25th Anniversary,Jordan,Air Jordan 11,Basketball,Men,2020-12-12,2020,220,Black,Black/Multicolor/White,330,50,0,
+118,Air Jordan 11 Retro Legend Blue (2014),Jordan,Air Jordan 11,Basketball,Men,2014-12-20,2014,200,White,White/Legend Blue/Black,300,50,0,
+119,Air Jordan 11 Retro Low Concord,Jordan,Air Jordan 11,Basketball,Men,2014-05-03,2014,150,White,White/Black/Dark Concord,150,0,0,
+120,Air Jordan 11 Retro Low Bred,Jordan,Air Jordan 11,Basketball,Men,2015-05-23,2015,170,Black,Black/True Red/White,85,-50,0,
+121,Nike Dunk Low Georgetown,Nike,Dunk Low,Skate,Men,2021-11-05,2021,100,Blue,Midnight Navy/Wolf Grey/White,150,50,0,
+122,Nike Dunk Low Brazil (2020),Nike,Dunk Low,Skate,Men,2020-05-21,2020,100,Yellow,Varsity Maize/Pine Green/White,250,150,0,
+123,Nike Dunk Low Championship Red,Nike,Dunk Low,Skate,Men,2021-09-28,2021,100,Red,University Red/White/Total Orange,110,10,0,
+124,Nike Dunk Low Michigan (2021),Nike,Dunk Low,Skate,Men,2021-09-23,2021,100,Yellow,Varsity Maize/Midnight Navy,70,-30,0,
+125,Nike Dunk Low Ocean,Nike,Dunk Low,Skate,Women,2022-06-07,2022,110,Blue,Light Marine/Armory Navy,165,50,0,
+126,Nike Dunk Low GS Pink Velvet,Nike,Dunk Low,Skate,GS,2021-11-12,2021,95,Pink,Soft Pink/White,71.25,-25,0,
+127,Nike Dunk Low TD Panda,Nike,Dunk Low,Skate,TD,2021-03-10,2021,55,Black,White/Black,82.5,50,0,
+128,Nike Dunk Low PS Kentucky,Nike,Dunk Low,Skate,PS,2020-03-14,2020,65,Blue,Varsity Royal/White,32.5,-50,0,
+129,Nike Dunk High Syracuse (2020),Nike,Dunk High,Skate,Men,2020-03-10,2020,110,Orange,White/Orange Blaze,165,50,0,
+130,Nike Dunk High Game Royal,Nike,Dunk High,Skate,Men,2021-06-11,2021,110,Blue,White/Game Royal,110,0,0,
+131,Nike React Element 87 Sail Light Bone,Nike,React Element 87,Running,Men,2018-07-13,2018,160,White,Sail/Light Bone/Anthracite/White,320,100,0,
+132,Nike React Element 87 Solar Red,Nike,React Element 87,Running,Men,2018-07-13,2018,160,Red,Solar Red/Black/Blue Chill,240,50,0,
+133,Nike React Element 87 Royal Tint,Nike,React Element 87,Running,Men,2019-02-15,2019,160,Blue,Royal Tint/Black/Wolf Grey/Solar Red,80,-50,0,
+134,Nike Air Max 97 Silver Bullet (2017),Nike,Air Max 97,Running,Men,2017-04-13,2017,160,Silver,Metallic Silver/Varsity Red/Black,240,50,0,
+135,Nike Air Max 97 Gold Bullet (2018),Nike,Air Max 97,Running,Men,2018-05-17,2018,160,Gold,Metallic Gold/Varsity Red/Black,320,100,0,
+136,Nike Air Max 97 Undefeated Black,Nike,Air Max 97,Running,Men,2017-09-21,2017,180,Black,Black/Gorge Green/White/Speed Red,900,400,1,Undefeated
+137,Nike Air Max 1/97 Sean Wotherspoon,Nike,Air Max 1/97,Running,Men,2018-03-26,2018,160,Multi,Light Blue Fury/Lemon Wash,800,400,1,Sean Wotherspoon
+138,Nike Air Max 1 Anniversary Obsidian,Nike,Air Max 1,Running,Men,2017-10-15,2017,140,Blue,White/Obsidian/Neutral Grey,105,-25,0,
+139,Nike Air Max 1 Powerwall Lemonade,Nike,Air Max 1,Running,Men,2020-11-26,2020,140,Yellow,Lemonade/Pine Green,420,200,0,
+140,Nike Air Max 1 Premium Skunk,Nike,Air Max 1,Running,Men,2020-04-20,2020,140,Green,Green/Volt/Blue,210,50,0,
+141,adidas Yeezy Boost 700 Wave Runner,Yeezy,Yeezy Boost 700,Lifestyle,Men,2017-11-01,2017,300,Grey,Solid Grey/Chalk White/Core Black,600,100,0,
+142,adidas Yeezy Boost 700 Mauve,Yeezy,Yeezy Boost 700,Lifestyle,Men,2018-10-27,2018,300,Brown,Mauve/Mauve/Gum,450,50,0,
+143,adidas Yeezy Boost 700 Inertia,Yeezy,Yeezy Boost 700,Lifestyle,Men,2019-03-09,2019,300,Grey,Inertia/Light Grey,150,-50,0,
+144,adidas Yeezy Boost 700 V2 Static,Yeezy,Yeezy Boost 700 V2,Lifestyle,Men,2018-12-29,2018,300,Grey,Static/Static/Static,900,200,0,
+145,adidas Yeezy Boost 700 V3 Azael,Yeezy,Yeezy Boost 700 V3,Lifestyle,Men,2019-12-23,2019,200,White,Azael/Azael/Azael,600,200,0,
+146,adidas Yeezy Boost 380 Alien,Yeezy,Yeezy Boost 380,Lifestyle,Men,2019-11-16,2019,230,Grey,Alien/Alien/Alien,230,0,0,
+147,adidas Yeezy Boost 380 Blue Oat,Yeezy,Yeezy Boost 380,Lifestyle,Men,2020-07-25,2020,230,Orange,Blue Oat/Blue Oat,115,-50,0,
+148,adidas Yeezy 500 Blush,Yeezy,Yeezy 500,Lifestyle,Men,2018-04-14,2018,200,Cream,Blush/Blush/Blush,400,100,0,
+149,adidas Yeezy 500 Utility Black,Yeezy,Yeezy 500,Lifestyle,Men,2018-07-07,2018,200,Black,Utility Black/Utility Black,300,50,0,
+150,adidas Yeezy 500 Salt,Yeezy,Yeezy 500,Lifestyle,Men,2018-11-30,2018,200,Grey,Salt/Salt/Salt,100,-50,0,
+151,New Balance 327 Casablanca Green,New Balance,327,Lifestyle,Men,2020-04-18,2020,150,Green,White/Green,450,200,1,Casablanca
+152,New Balance 327 Casablanca Orange,New Balance,327,Lifestyle,Men,2020-04-18,2020,150,Orange,White/Orange,600,300,1,Casablanca
+153,New Balance 327 Grey,New Balance,327,Lifestyle,Men,2020-07-01,2020,100,Grey,Grey/White,100,0,0,
+154,New Balance 327 Black,New Balance,327,Lifestyle,Men,2020-07-01,2020,100,Black,Black/White,75,-25,0,
+155,New Balance 327 Navy,New Balance,327,Lifestyle,Men,2020-07-01,2020,100,Blue,Navy/White,150,50,0,
+156,New Balance 990v3 Kith Daytona,New Balance,990v3,Running,Men,2021-11-27,2021,220,Blue,Blue/Coral,1100,400,1,Kith
+157,New Balance 990v3 JJJJound Olive,New Balance,990v3,Running,Men,2022-03-03,2022,220,Green,Olive/Black,1100,400,1,JJJJound
+158,New Balance 991 MiUK Grey,New Balance,991,Running,Men,2019-01-01,2019,210,Grey,Grey/Grey,210,0,0,
+159,New Balance 991 MiUK Navy,New Balance,991,Running,Men,2020-01-01,2020,210,Blue,Navy/Navy,315,50,0,
+160,New Balance 993 Made in USA Grey,New Balance,993,Running,Men,2021-09-09,2021,200,Grey,Grey/Grey,300,50,0,
+161,adidas NMD R1 OG,adidas,NMD R1,Running,Men,2015-12-12,2015,170,Black,Core Black/Lush Red/Blue,340,100,0,
+162,adidas NMD R1 Triple White,adidas,NMD R1,Running,Men,2016-03-23,2016,170,White,Footwear White/Footwear White,85,-50,0,
+163,adidas NMD Human Race Yellow,adidas,NMD Human Race,Running,Men,2016-09-29,2016,240,Yellow,Bright Yellow/Core Black,1200,400,1,Pharrell Williams
+164,adidas NMD Human Race Black,adidas,NMD Human Race,Running,Men,2016-09-29,2016,240,Black,Core Black/Core Black,720,200,1,Pharrell Williams
+165,adidas NMD Human Race Trail Holi Pink Glow,adidas,NMD Human Race,Running,Men,2018-03-16,2018,250,Pink,Multi-Color/Pink Glow,500,100,1,Pharrell Williams
+166,adidas Ultraboost 4.0 Triple Black,adidas,Ultraboost,Running,Men,2017-12-01,2017,180,Black,Core Black/Core Black,180,0,0,
+167,adidas Ultraboost 4.0 Triple White,adidas,Ultraboost,Running,Men,2017-12-01,2017,180,White,Footwear White/Footwear White,135,-25,0,
+168,adidas Ultraboost Game of Thrones Night's Watch,adidas,Ultraboost,Running,Men,2019-03-22,2019,180,Black,Core Black/Footwear White,360,100,1,Game of Thrones
+169,adidas Ultraboost SNS Tee Time,adidas,Ultraboost,Running,Men,2016-06-28,2016,180,Black,Footwear White/Core Black,540,200,1,Sneakersnstuff
+170,adidas Ultraboost 1.0 DNA Miami Hurricanes,adidas,Ultraboost,Running,Men,2018-11-01,2018,180,Green,Collegiate Green/Orange,270,50,0,
+171,Reebok Question Mid OG Red Toe,Reebok,Question Mid,Basketball,Men,2015-10-01,2015,140,Red,White/Red,140,0,0,
+172,Reebok Question Mid OG Blue Toe,Reebok,Question Mid,Basketball,Men,2016-05-01,2016,140,Blue,White/Blue,210,50,0,
+173,Reebok Question Mid BBC Ice Cream,Reebok,Question Mid,Basketball,Men,2020-11-12,2020,160,Multi,Multi-Color,640,300,1,BBC Ice Cream
+174,Reebok Club C 85 Vintage Chalk,Reebok,Club C 85,Lifestyle,Men,2016-01-01,2016,75,Cream,Chalk/Paper White,75,0,0,
+175,Reebok Club C 85 JJJJound White,Reebok,Club C 85,Lifestyle,Men,2020-08-06,2020,120,White,White/Beige,600,400,1,JJJJound
+176,Converse Chuck 70 Hi Comme des Garçons Play White,Converse,Chuck 70,Lifestyle,Unisex,2015-09-15,2015,135,White,Optical White/Red Heart,270,100,1,Comme des Garçons
+177,Converse Chuck 70 Hi Comme des Garçons Play Black,Converse,Chuck 70,Lifestyle,Unisex,2015-09-15,2015,135,Black,Black/Red Heart,405,200,1,Comme des Garçons
+178,Converse Chuck 70 Hi Off-White,Converse,Chuck 70,Lifestyle,Unisex,2018-10-08,2018,130,Clear,White/Cone/Black,650,400,1,Off-White
+179,Converse Chuck Taylor All Star Core White,Converse,Chuck Taylor All Star,Lifestyle,Unisex,2015-01-01,2015,55,White,Optical White,55,0,0,
+180,Converse Chuck Taylor All Star Core Black,Converse,Chuck Taylor All Star,Lifestyle,Unisex,2015-01-01,2015,55,Black,Black/White,41.25,-25,0,
+181,Vans Old Skool Black White,Vans,Old Skool,Skate,Unisex,2015-01-01,2015,60,Black,Black/White,60,0,0,
+182,Vans Old Skool Checkerboard,Vans,Old Skool,Skate,Unisex,2016-01-01,2016,60,Black,Black/Off-White Checkerboard,90,50,0,
+183,Vans Sk8-Hi Black White,Vans,Sk8-Hi,Skate,Unisex,2015-01-01,2015,65,Black,Black/White,48.75,-25,0,
+184,Vans Authentic Black,Vans,Authentic,Skate,Unisex,2015-01-01,2015,50,Black,Black/Black,50,0,0,
+185,Vans Slip-On Checkerboard Black White,Vans,Slip-On,Skate,Unisex,2015-01-01,2015,50,Black,Black/White Checkerboard,75,50,0,
+186,Crocs Classic Clog White,Crocs,Classic Clog,Slides,Unisex,2018-01-01,2018,45,White,White/White,45,0,0,
+187,Crocs Classic Clog Black,Crocs,Classic Clog,Slides,Unisex,2018-01-01,2018,45,Black,Black/Black,33.75,-25,0,
+188,Crocs Classic Clog Salehe Bembury Cucumber,Crocs,Pollex Clog,Slides,Men,2021-12-14,2021,85,Green,Cucumber/Green,425,400,1,Salehe Bembury
+189,Crocs Classic Clog Salehe Bembury Tide,Crocs,Pollex Clog,Slides,Men,2022-05-24,2022,85,Blue,Tide/Blue,255,200,1,Salehe Bembury
+190,Crocs Classic Clog Lightning McQueen,Crocs,Classic Clog,Slides,Kids,2017-06-01,2017,45,Red,Lightning McQueen Red,67.5,50,0,
+191,Salomon XT-6 Advanced White Lunar Rock,Salomon,XT-6,Lifestyle,Unisex,2019-04-01,2019,190,White,White/Lunar Rock,285,50,0,
+192,Salomon XT-6 Advanced Black,Salomon,XT-6,Lifestyle,Unisex,2019-04-01,2019,190,Black,Black/Phantom,142.5,-25,0,
+193,Salomon XT-4 Advanced S Lab Red,Salomon,XT-4,Trail,Unisex,2018-03-01,2018,180,Red,Red/Fiery Red,360,100,0,
+194,Hoka One One Bondi 7 Black,Hoka One One,Bondi 7,Running,Men,2020-09-01,2020,150,Black,Black/Black,150,0,0,
+195,Hoka One One Clifton 8 Triple White,Hoka One One,Clifton 8,Running,Men,2021-06-15,2021,130,White,White/White,97.5,-25,0,
+196,Nike ZoomX Vaporfly NEXT% 2 White Pink,Nike,ZoomX Vaporfly NEXT% 2,Running,Men,2021-04-15,2021,250,White,White/Pink Blast,375,50,0,
+197,Nike ZoomX Vaporfly NEXT% 2 Blue,Nike,ZoomX Vaporfly NEXT% 2,Running,Men,2021-06-01,2021,250,Blue,Blueprint/White,250,0,0,
+198,Nike ZoomX Alphafly NEXT% Volt,Nike,ZoomX Alphafly NEXT%,Running,Men,2020-07-02,2020,275,Yellow,Volt/Black,550,100,0,
+199,Nike Zoom Fly 3 Black,Nike,Zoom Fly 3,Running,Men,2019-07-11,2019,160,Black,Black/Anthracite,112,-30,0,
+200,Nike Zoom Fly 3 Tokyo,Nike,Zoom Fly 3,Running,Men,2020-01-25,2020,160,Pink,Flash Crimson/Black,240,50,0,
+201,Air Jordan 5 Retro Fire Red (2020),Jordan,Air Jordan 5,Basketball,Men,2020-05-02,2020,200,White,White/Fire Red/Black,260,30,0,
+202,Air Jordan 5 Retro Raging Bull (2021),Jordan,Air Jordan 5,Basketball,Men,2021-04-10,2021,190,Red,Varsity Red/Black,171,-10,0,
+203,Air Jordan 5 Retro Top 3,Jordan,Air Jordan 5,Basketball,Men,2020-06-20,2020,200,Black,Black/Fire Red/Grape Ice,100,-50,0,
+204,Air Jordan 5 Retro Moonlight Oreo,Jordan,Air Jordan 5,Basketball,Men,2021-09-11,2021,190,White,White/Black/Cool Grey,285,50,0,
+205,Air Jordan 6 Retro Carmine (2021),Jordan,Air Jordan 6,Basketball,Men,2021-02-13,2021,200,Red,White/Carmine/Black,300,50,0,
+206,Air Jordan 6 Retro Travis Scott Medium Olive,Jordan,Air Jordan 6,Basketball,Men,2019-10-11,2019,250,Green,Medium Olive/Black/Sail,1250,400,1,Travis Scott
+207,Air Jordan 6 Retro Infrared (2019),Jordan,Air Jordan 6,Basketball,Men,2019-02-16,2019,200,Black,Black/Infrared,200,0,0,
+208,Air Jordan 6 Retro UNC White,Jordan,Air Jordan 6,Basketball,Men,2022-03-05,2022,210,Blue,University Blue/White/Black,315,50,0,
+209,Air Jordan 7 Retro Bordeaux (2015),Jordan,Air Jordan 7,Basketball,Men,2015-07-18,2015,190,Grey,Bordeaux/Black/Light Graphite,95,-50,0,
+210,Air Jordan 7 Retro Hare 2.0,Jordan,Air Jordan 7,Basketball,Men,2020-04-11,2020,190,Grey,Neutral Grey/Summit White/Pink,95,-50,0,
+211,Air Jordan 12 Retro Flu Game (2016),Jordan,Air Jordan 12,Basketball,Men,2016-05-28,2016,190,Black,Black/Varsity Red,285,50,0,
+212,Air Jordan 12 Retro Game Royal,Jordan,Air Jordan 12,Basketball,Men,2019-10-12,2019,190,Blue,Black/Game Royal,133,-30,0,
+213,Air Jordan 13 Retro He Got Game (2018),Jordan,Air Jordan 13,Basketball,Men,2018-08-04,2018,190,White,White/Black/True Red,190,0,0,
+214,Air Jordan 13 Retro Flint (2020),Jordan,Air Jordan 13,Basketball,Men,2020-05-30,2020,190,Blue,White/Flint Grey/Navy,285,50,0,
+215,Air Jordan 13 Retro Starfish,Jordan,Air Jordan 13,Basketball,Men,2021-01-16,2021,190,Orange,White/Black/Starfish,95,-50,0,
+216,Air Jordan 11 Retro Low Legend Blue (2021),Jordan,Air Jordan 11,Basketball,Men,2021-04-24,2021,185,White,White/Black/Legend Blue,277.5,50,0,
+217,Air Jordan 5 Retro Off-White Sail,Jordan,Air Jordan 5,Basketball,Men,2020-10-29,2020,225,Cream,Sail/Fire Red/Black,1125,400,1,Off-White
+218,Air Jordan 2 Retro Union Grey Fog,Jordan,Air Jordan 2,Basketball,Men,2022-04-15,2022,225,Grey,Grey Fog/Siren Red,675,200,1,Union LA
+219,Air Jordan 1 Retro Low OG Year of the Rabbit,Jordan,Air Jordan 1,Basketball,Men,2023-01-11,2023,160,Brown,Brown/White/Grey,800,400,0,
+220,Air Jordan 1 Retro Low OG Black Toe (2023),Jordan,Air Jordan 1,Basketball,Men,2023-08-04,2023,140,Black,White/Black/Varsity Red,210,50,0,
+221,Nike LeBron 8 South Beach (2021),Nike,LeBron 8,Basketball,Men,2021-07-23,2021,200,Teal,Retro Teal/Pink Flash,600,200,0,
+222,Nike LeBron 18 Low Bugs vs Marvin,Nike,LeBron 18 Low,Basketball,Men,2021-07-16,2021,160,Black,Black/University Red,80,-50,0,
+223,Nike Kyrie 4 Halloween,Nike,Kyrie 4,Basketball,Men,2017-10-31,2017,120,Green,Black/Green Glow,180,50,0,
+224,Nike Kyrie 5 Taco PE,Nike,Kyrie 5,Basketball,Men,2018-11-16,2018,130,Grey,Grey/Orange/Black,260,100,1,Taco
+225,Nike KD 13 Easy Money Sniper,Nike,KD 13,Basketball,Men,2020-10-24,2020,160,Green,Pine Green/White,80,-50,0,
+226,Nike PG 2.5 PlayStation Grey,Nike,PG 2.5,Basketball,Men,2018-02-10,2018,110,Grey,Wolf Grey/Blue/Black,330,200,1,PlayStation
+227,Nike LeBron 7 Fairfax Home,Nike,LeBron 7,Basketball,Men,2020-03-06,2020,200,White,White/Varsity Red,140,-30,0,
+228,Nike LeBron 7 Media Day,Nike,LeBron 7,Basketball,Men,2020-05-16,2020,200,Yellow,Amarillo/Varsity Purple,600,200,0,
+229,Nike Zoom Freak 1 Black White,Nike,Zoom Freak 1,Basketball,Men,2019-06-29,2019,120,Black,Black/White,60,-50,0,
+230,Nike Kobe 5 Protro Chaos,Nike,Kobe 5 Protro,Basketball,Men,2020-01-03,2020,180,Green,White/Green Apple/Eggplant,540,200,0,
+231,Nike Kobe 5 Protro 5 Rings,Nike,Kobe 5 Protro,Basketball,Men,2020-08-24,2020,180,Blue,Concord/Midnight Navy,270,50,0,
+232,Nike Kobe 5 Protro PJ Tucker,Nike,Kobe 5 Protro,Basketball,Men,2020-09-25,2020,180,Multi,White/Orange/Purple,540,200,1,PJ Tucker
+233,Nike Zoom GT Cut 2 Barely Volt,Nike,Zoom GT Cut 2,Basketball,Men,2022-09-01,2022,170,Yellow,Barely Volt/Black,119,-30,0,
+234,Nike Zoom GT Jump Black,Nike,Zoom GT Jump,Basketball,Men,2022-01-15,2022,180,Black,Black/White,90,-50,0,
+235,Nike Blazer Mid 77 Vintage White Black,Nike,Blazer Mid '77,Lifestyle,Men,2020-01-01,2020,100,White,White/Black,100,0,0,
+236,Nike Blazer Mid sacai Snow Beach,Nike,Blazer Mid,Lifestyle,Men,2019-05-30,2019,140,Multi,Blue/Red/Yellow,560,300,1,Sacai
+237,Nike Blazer Mid sacai Black Grey,Nike,Blazer Mid,Lifestyle,Men,2019-10-10,2019,140,Black,Black/Wolf Grey,280,100,1,Sacai
+238,Nike Air Force 1 Low Undefeated 5 On It Blue,Nike,Air Force 1,Lifestyle,Men,2021-08-07,2021,140,Blue,Blue/White/Yellow,210,50,1,Undefeated
+239,Nike Air Force 1 Low Supreme Box Logo White,Nike,Air Force 1,Lifestyle,Men,2020-03-05,2020,96,White,White/White/Red,384,300,1,Supreme
+240,Nike Air Force 1 Low Supreme Box Logo Black,Nike,Air Force 1,Lifestyle,Men,2020-03-05,2020,96,Black,Black/Black/Red,192,100,1,Supreme
+241,Nike Air Zoom Pegasus 38 Black White,Nike,Air Zoom Pegasus 38,Running,Men,2021-04-22,2021,120,Black,Black/White,84,-30,0,
+242,Nike Air Zoom Pegasus 39 Shield,Nike,Air Zoom Pegasus 39,Running,Men,2022-10-01,2022,140,Black,Black/Reflect Silver,105,-25,0,
+243,Nike React Infinity Run Flyknit,Nike,React Infinity Run,Running,Men,2020-02-06,2020,160,White,White/Black/Volt,112,-30,0,
+244,Nike Free RN 5.0 Black,Nike,Free RN 5.0,Running,Men,2019-04-01,2019,100,Black,Black/Anthracite,50,-50,0,
+245,Nike Air VaporMax Flyknit 3 Triple Black,Nike,Air VaporMax Flyknit 3,Running,Men,2019-04-25,2019,200,Black,Black/Black,200,0,0,
+246,Nike Air VaporMax Plus Triple Black,Nike,Air VaporMax Plus,Running,Men,2018-02-28,2018,190,Black,Black/Black,285,50,0,
+247,Nike Air VaporMax Off-White Black,Nike,Air VaporMax,Running,Men,2018-03-30,2018,250,Black,Black/Clear,1250,400,1,Off-White
+248,Nike Air VaporMax Off-White White,Nike,Air VaporMax,Running,Men,2018-03-30,2018,250,White,White/Clear,750,200,1,Off-White
+249,Nike Air Max Plus TN Tiger,Nike,Air Max Plus,Running,Men,2018-08-09,2018,170,Orange,Orange/Black,255,50,0,
+250,Nike Air Max Plus TN Triple Black,Nike,Air Max Plus,Running,Men,2018-01-15,2018,170,Black,Black/Black,102,-40,0,
+251,adidas Superstar White Black,adidas,Superstar,Lifestyle,Unisex,2015-01-01,2015,80,White,Cloud White/Core Black,80,0,0,
+252,adidas Superstar White Green,adidas,Superstar,Lifestyle,Unisex,2018-05-01,2018,80,White,Cloud White/Green,60,-25,0,
+253,adidas Gazelle Collegiate Green,adidas,Gazelle,Lifestyle,Unisex,2016-06-01,2016,80,Green,Collegiate Green/White,120,50,0,
+254,adidas Gazelle Blue,adidas,Gazelle,Lifestyle,Unisex,2016-06-01,2016,80,Blue,Blue/White,40,-50,0,
+255,adidas Campus 00s Core Black,adidas,Campus 00s,Lifestyle,Men,2023-01-19,2023,110,Black,Core Black/White,165,50,0,
+256,adidas Campus 00s Pink Fusion,adidas,Campus 00s,Lifestyle,Women,2023-02-01,2023,110,Pink,Pink Fusion/White,82.5,-25,0,
+257,adidas Handball Spezial Navy Gum,adidas,Handball Spezial,Lifestyle,Men,2023-04-01,2023,110,Blue,Collegiate Navy/Gum,220,100,0,
+258,adidas Spezial Silver Green,adidas,Spezial,Lifestyle,Men,2023-05-01,2023,110,Green,Silver Green/White/Gum,165,50,0,
+259,adidas Samba OG Light Blue,adidas,Samba OG,Lifestyle,Women,2023-03-01,2023,100,Blue,Light Blue/Cloud White/Gum,200,100,0,
+260,adidas Gazelle Indoor Sean Wotherspoon Corduroy,adidas,Gazelle Indoor,Lifestyle,Men,2023-06-01,2023,140,Multi,Multi-Color/Corduroy,420,200,1,Sean Wotherspoon
+261,Yeezy Foam RNNR Ararat,Yeezy,Foam RNNR,Slides,Men,2020-06-26,2020,75,Cream,Ararat/Ararat,300,300,0,
+262,Yeezy Foam RNNR Sand,Yeezy,Foam RNNR,Slides,Men,2020-09-18,2020,75,Tan,Sand/Sand,150,100,0,
+263,Yeezy Foam RNNR Vermilion,Yeezy,Foam RNNR,Slides,Men,2021-10-29,2021,80,Red,Vermilion/Vermilion,160,100,0,
+264,Yeezy Foam RNNR Onyx,Yeezy,Foam RNNR,Slides,Men,2022-06-08,2022,90,Black,Onyx/Onyx,135,50,0,
+265,Yeezy Slide Glow Green,Yeezy,Yeezy Slide,Slides,Men,2021-09-06,2021,60,Green,Glow Green/Glow Green,180,200,0,
+266,Yeezy Slide Pure,Yeezy,Yeezy Slide,Slides,Men,2021-04-26,2021,60,Tan,Pure/Pure,90,50,0,
+267,Yeezy Slide Resin,Yeezy,Yeezy Slide,Slides,Men,2019-12-06,2019,55,Greenish,Resin/Resin,82.5,50,0,
+268,Yeezy Knit RNR Sulfur,Yeezy,Knit RNR,Lifestyle,Men,2021-09-23,2021,200,Yellow,Sulfur/Sulfur,400,100,0,
+269,Yeezy QNTM Quantum,Yeezy,Yeezy QNTM,Basketball,Men,2020-02-16,2020,250,Grey,Grey/Black,125,-50,0,
+270,Yeezy BSKTBL Knit Energy Glow,Yeezy,Yeezy BSKTBL Knit,Basketball,Men,2021-12-18,2021,300,Green,Energy Glow/Black,150,-50,0,
+271,New Balance 1906R White Silver,New Balance,1906R,Running,Men,2022-07-01,2022,150,White,White/Silver Metallic,150,0,0,
+272,New Balance 1906R Protection Pack Harbor Grey,New Balance,1906R,Running,Men,2022-09-01,2022,170,Grey,Harbor Grey/Grey,340,100,0,
+273,New Balance 1906R Aime Leon Dore Green,New Balance,1906R,Running,Men,2023-04-01,2023,170,Green,Green/Cream,510,200,1,Aime Leon Dore
+274,New Balance 9060 Sea Salt,New Balance,9060,Lifestyle,Men,2022-09-03,2022,150,White,Sea Salt/White,225,50,0,
+275,New Balance 9060 Nightwatch Green,New Balance,9060,Lifestyle,Men,2022-10-01,2022,150,Green,Nightwatch Green/Navy,112.5,-25,0,
+276,New Balance 860v2 Aime Leon Dore Green,New Balance,860v2,Running,Men,2021-10-15,2021,150,Green,Green/Cream,600,300,1,Aime Leon Dore
+277,New Balance 574 Core Grey,New Balance,574,Lifestyle,Men,2018-01-01,2018,85,Grey,Grey/White,63.75,-25,0,
+278,New Balance 574 Navy,New Balance,574,Lifestyle,Men,2018-01-01,2018,85,Blue,Navy/White,85,0,0,
+279,New Balance 327 Casablanca Red Monogram,New Balance,327,Lifestyle,Men,2021-11-01,2021,150,Red,Red/White/Monogram,450,200,1,Casablanca
+280,New Balance 550 White Black Leather,New Balance,550,Basketball,Men,2022-02-15,2022,120,White,White/Black,108,-10,0,
+281,ASICS Gel-Lyte III OG Salmon Toe (2020),ASICS,Gel-Lyte III,Lifestyle,Men,2020-11-27,2020,180,Pink,Salmon/Black,540,200,1,Kith
+282,ASICS Gel-Lyte III OG Tokyo,ASICS,Gel-Lyte III,Lifestyle,Men,2020-07-24,2020,120,Blue,Blue/White,60,-50,0,
+283,ASICS Gel-Kayano 14 White Black,ASICS,Gel-Kayano 14,Running,Men,2021-03-01,2021,150,White,White/Black,225,50,0,
+284,ASICS GT-2160 White Silver,ASICS,GT-2160,Running,Men,2023-01-15,2023,120,White,White/Silver,180,50,0,
+285,Salomon XT-6 Gore-Tex Black,Salomon,XT-6,Trail,Unisex,2022-10-01,2022,220,Black,Black/Black,330,50,0,
+286,Salomon XT-4 OG Spearmint,Salomon,XT-4,Trail,Unisex,2021-05-01,2021,200,Green,Spearmint/White,300,50,0,
+287,Hoka One One Clifton 8 Black,Hoka One One,Clifton 8,Running,Men,2021-06-15,2021,130,Black,Black/Black,130,0,0,
+288,Hoka One One Bondi 8 White,Hoka One One,Bondi 8,Running,Men,2022-08-15,2022,165,White,White/White,123.75,-25,0,
+289,On Running Cloud X Black,On,Cloud X,Running,Men,2020-03-01,2020,140,Black,Black/White,98,-30,0,
+290,On Running Cloudmonster White Frost,On,Cloudmonster,Running,Men,2022-04-01,2022,170,White,White/Frost,255,50,0,
+291,Nike Zoom Vomero 5 Vast Grey,Nike,Zoom Vomero 5,Running,Men,2019-01-01,2019,160,Grey,Vast Grey/Volt,240,50,0,
+292,Nike Zoom Vomero 5 Doernbecher Zoe,Nike,Zoom Vomero 5,Running,Men,2019-02-23,2019,170,Multi,Multi-Color,510,200,1,Doernbecher
+293,Nike Zoom Vomero 5 SP Pine Green,Nike,Zoom Vomero 5,Running,Men,2023-03-01,2023,160,Green,White/Pine Green,80,-50,0,
+294,Nike Air Ship A Ma Maniere White Green,Nike,Air Ship,Basketball,Men,2022-09-15,2022,140,White,White/Green,420,200,1,A Ma Maniere
+295,Nike Air Max 95 Atmos Safari,Nike,Air Max 95,Running,Men,2016-03-05,2016,170,Brown,Brown/Black/Safari,510,200,1,atmos
+296,Nike SB Dunk Low Parra Abstract Art,Nike,Dunk Low,Skate,Men,2021-07-31,2021,110,Multi,White/Red/Blue,330,200,1,Parra
+297,Nike SB Dunk Low Yuto Horigome,Nike,Dunk Low,Skate,Men,2023-08-16,2023,130,Grey,Grey/Brown/Pink,390,200,1,Yuto Horigome
+298,Nike SB Dunk Low Orange Lobster Concepts,Nike,Dunk Low,Skate,Men,2022-12-21,2022,130,Orange,Orange/White,650,400,1,Concepts
+299,Nike SB Dunk Low Los Angeles Dodgers,Nike,Dunk Low,Skate,Men,2022-10-01,2022,120,Blue,Deep Royal Blue/White,180,50,1,MLB
+300,Nike SB Dunk Low Paisley Brown,Nike,Dunk Low,Skate,Women,2022-02-18,2022,110,Brown,Brown/Green/Pink,55,-50,0,
+301,Air Jordan 1 Retro High OG Brotherhood,Jordan,Air Jordan 1,Basketball,Men,2022-02-24,2022,170,Yellow,University Gold/Light Bordeaux/White,85,-50,0,
+302,Nike Air Max 270 Triple Black,Nike,Air Max 270,Running,Men,2018-03-16,2018,150,Black,Black/Black/Black,90,-40,0,
+303,Nike Dunk Low Retro QS Argon (2022),Nike,Dunk Low,Skate,Men,2022-10-08,2022,130,Blue,Flash White/Argon Blue/Flash,195,50,0,
+304,New Balance 9060 Blue Haze,New Balance,9060,Lifestyle,Men,2023-02-03,2023,150,Blue,Blue Haze/Turtledove,225,50,0,
+305,Air Jordan 1 Retro High OG Heritage,Jordan,Air Jordan 1,Basketball,Men,2022-04-09,2022,170,Red,White/University Red/Black,119,-30,0,
+306,Air Jordan 1 Retro High OG Lucky Green (2023),Jordan,Air Jordan 1,Basketball,Men,2023-04-15,2023,180,Green,Black/Lucky Green/White,270,50,0,
+307,Air Jordan 1 Retro High OG Stealth,Jordan,Air Jordan 1,Basketball,Men,2022-08-30,2022,180,Grey,Stealth/White,126,-30,0,
+308,Air Jordan 1 Retro High OG Volt,Jordan,Air Jordan 1,Basketball,Men,2022-06-11,2022,170,Yellow,Volt/Black/Sail,85,-50,0,
+309,Air Jordan 1 Retro High OG Gorge Green,Jordan,Air Jordan 1,Basketball,Men,2022-12-20,2022,180,Green,Gorge Green/Metallic Silver/White,270,50,0,
+310,Air Jordan 1 Retro High OG Washed Black,Jordan,Air Jordan 1,Basketball,Men,2023-06-10,2023,180,Grey,Black/Fire Red/Light Smoke Grey,180,0,0,
+311,Air Jordan 4 Retro Thunder (2023),Jordan,Air Jordan 4,Basketball,Men,2023-05-13,2023,210,Black,Black/Tour Yellow,315,50,0,
+312,Air Jordan 4 Retro Craft Olive,Jordan,Air Jordan 4,Basketball,Men,2023-11-18,2023,210,Green,Medium Olive/Pale Vanilla/Khaki,157.5,-25,0,
+313,Air Jordan 4 Retro Seafoam,Jordan,Air Jordan 4,Basketball,Women,2023-02-09,2023,210,Green,White/Seafoam/Dark Ash,315,50,0,
+314,Air Jordan 4 Retro Frozen Moments,Jordan,Air Jordan 4,Basketball,Women,2023-08-26,2023,210,Grey,Light Iron Ore/Sail/Neutral Grey,420,100,0,
+315,Air Jordan 4 Retro Midnight Navy GS,Jordan,Air Jordan 4,Basketball,GS,2022-10-29,2022,160,Blue,White/Midnight Navy/Light Smoke Grey,160,0,0,
+316,Air Jordan 1 Mid Chicago Toe,Jordan,Air Jordan 1 Mid,Basketball,Men,2019-04-01,2019,120,Red,Black/Gym Red/White,90,-25,0,
+317,Air Jordan 1 Mid UNC,Jordan,Air Jordan 1 Mid,Basketball,Men,2019-06-01,2019,110,Blue,White/University Blue,165,50,0,
+318,Air Jordan 1 Mid Light Smoke Grey,Jordan,Air Jordan 1 Mid,Basketball,Men,2020-07-01,2020,115,Grey,Light Smoke Grey/Black/White,172.5,50,0,
+319,Air Jordan 1 Low Starfish,Jordan,Air Jordan 1 Low,Basketball,Men,2019-08-01,2019,90,Orange,White/Starfish/Black,45,-50,0,
+320,Air Jordan 1 Low Reverse Bred,Jordan,Air Jordan 1 Low,Basketball,Men,2020-01-01,2020,90,Red,Gym Red/Black/White,135,50,0,
+321,Nike Dunk Low Retro Black White (Women),Nike,Dunk Low,Skate,Women,2021-03-10,2021,100,Black,White/Black,150,50,0,
+322,Nike Dunk Low Light Bone,Nike,Dunk Low,Skate,Men,2021-09-01,2021,100,Grey,Light Bone/White,75,-25,0,
+323,Nike Dunk Low Retro Championship Court Purple,Nike,Dunk Low,Skate,Men,2021-05-05,2021,100,Purple,White/Court Purple,150,50,0,
+324,Nike Dunk Low Retro Photon Dust (Women),Nike,Dunk Low,Skate,Women,2021-04-16,2021,100,Grey,Photon Dust/White,100,0,0,
+325,Nike Dunk Low Retro Venice (Women),Nike,Dunk Low,Skate,Women,2021-09-01,2021,100,Purple,Venice/White,75,-25,0,
+326,Nike Dunk Low Next Nature White Gym Red,Nike,Dunk Low,Skate,Men,2021-11-01,2021,105,Red,White/Gym Red,157.5,50,0,
+327,Nike Dunk Low Retro Grey Fog,Nike,Dunk Low,Skate,Men,2021-09-21,2021,100,Grey,Grey Fog/White,200,100,0,
+328,Nike Dunk Low Retro Green Glow (Women),Nike,Dunk Low,Skate,Women,2021-04-16,2021,100,Green,White/Green Glow,50,-50,0,
+329,Nike Dunk Low Disrupt Photon Dust (Women),Nike,Dunk Low Disrupt,Skate,Women,2020-09-04,2020,110,Grey,Photon Dust/White/Summit White,82.5,-25,0,
+330,Nike Dunk High Vast Grey,Nike,Dunk High,Skate,Women,2021-01-14,2021,110,Grey,White/Vast Grey,165,50,0,
+331,Nike Air Max 270 React ENG Blue Void,Nike,Air Max 270 React ENG,Running,Men,2020-01-16,2020,170,Blue,Blue Void/Black/Green Strike,85,-50,0,
+332,Nike Air Max 270 React Bauhaus,Nike,Air Max 270 React,Running,Men,2019-07-03,2019,150,Multi,White/University Red/Blue/Yellow,225,50,0,
+333,Nike Air Max 270 Bowfin Desert,Nike,Air Max 270 Bowfin,Running,Men,2018-10-11,2018,160,Brown,Desert/Black,80,-50,0,
+334,Nike Air Max 95 Neon (2015),Nike,Air Max 95,Running,Men,2015-12-17,2015,170,Green,Cool Grey/Volt/Black,340,100,0,
+335,Nike Air Max 95 Greedy,Nike,Air Max 95,Running,Men,2015-10-29,2015,180,Grey,Grey/Volt/Neon/Orange,270,50,0,
+336,Nike Air Max 97 Triple White,Nike,Air Max 97,Running,Men,2017-05-01,2017,160,White,White/White,120,-25,0,
+337,Nike Air Max 97 SE Corduroy Pack,Nike,Air Max 97,Running,Men,2018-03-17,2018,170,Pink,Pink/Royal Blue/Volt,510,200,0,
+338,Nike Air Max 270 React Travis Scott Cactus Trails,Nike,Air Max 270 React,Running,Men,2020-05-29,2020,170,Brown,Light Cream/Starfish/Dark Hazel,850,400,1,Travis Scott
+339,Nike Air Max 270 React ENG Travis Scott,Nike,Air Max 270 React ENG,Running,Men,2020-05-29,2020,170,Brown,Dark Smoke Grey/Black,850,400,1,Travis Scott
+340,Nike Air Max 1 Kasina Won Ang Orange,Nike,Air Max 1,Running,Men,2022-06-04,2022,160,Orange,Orange/Peach/White,480,200,1,Kasina
+341,adidas Ultraboost 21 Core Black,adidas,Ultraboost 21,Running,Men,2021-01-28,2021,180,Black,Core Black/Core Black,135,-25,0,
+342,adidas Ultraboost 21 Solar Yellow,adidas,Ultraboost 21,Running,Men,2021-02-01,2021,180,Yellow,Solar Yellow/Core Black,270,50,0,
+343,adidas Ultraboost 22 Triple White Women,adidas,Ultraboost 22,Running,Women,2021-12-09,2021,190,White,Footwear White/Footwear White,190,0,0,
+344,adidas Ultraboost 20 NASA,adidas,Ultraboost 20,Running,Men,2019-12-06,2019,180,Silver,Silver Metallic/Core Black,360,100,1,NASA
+345,adidas Solarboost 3 Black,adidas,Solarboost 3,Running,Men,2020-06-01,2020,160,Black,Core Black/Core Black,80,-50,0,
+346,adidas Adizero Adios Pro 3 White,adidas,Adizero Adios Pro 3,Running,Men,2022-09-15,2022,250,White,Footwear White/Core Black,375,50,0,
+347,adidas Adizero Boston 11 Pulse Mint,adidas,Adizero Boston 11,Running,Men,2022-06-01,2022,160,Green,Pulse Mint/Core Black,120,-25,0,
+348,adidas Forum 84 High White Blue,adidas,Forum 84 High,Lifestyle,Men,2021-02-01,2021,120,Blue,Cloud White/Blue,90,-25,0,
+349,adidas Forum 84 Low White Green,adidas,Forum 84 Low,Lifestyle,Men,2021-04-01,2021,110,Green,Cloud White/Green,165,50,0,
+350,adidas Rivalry Low 86 White Orange,adidas,Rivalry Low 86,Lifestyle,Men,2022-03-01,2022,110,Orange,Cloud White/Orange,55,-50,0,
+351,Yeezy Boost 350 V2 Tail Light,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2020-02-22,2020,220,Grey,Tail Light/Grey/Orange,440,100,0,
+352,Yeezy Boost 350 V2 Linen,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2020-04-18,2020,220,Tan,Linen/Light Blue,330,50,0,
+353,Yeezy Boost 350 V2 Israfil,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2020-08-22,2020,220,Grey,Israfil/Grey/Orange,220,0,0,
+354,Yeezy Boost 380 Calcite Glow,Yeezy,Yeezy Boost 380,Lifestyle,Men,2020-10-31,2020,250,White,Calcite Glow/White,375,50,0,
+355,Yeezy 450 Cloud White,Yeezy,Yeezy 450,Lifestyle,Men,2021-03-06,2021,200,White,Cloud White/Cloud White,400,100,0,
+356,Yeezy Slide Soot,Yeezy,Yeezy Slide,Slides,Men,2020-09-04,2020,55,Brown,Soot/Soot,82.5,50,0,
+357,Yeezy Slide Enflame Orange,Yeezy,Yeezy Slide,Slides,Men,2021-06-21,2021,60,Orange,Enflame Orange/Enflame Orange,180,200,0,
+358,Yeezy Slide Glow Green (2022 Restock),Yeezy,Yeezy Slide,Slides,Men,2022-05-16,2022,70,Green,Glow Green/Glow Green,140,100,0,
+359,Yeezy Foam RNNR MX Cream Clay,Yeezy,Foam RNNR,Slides,Men,2021-08-02,2021,80,Tan,MX Cream Clay/Multi,160,100,0,
+360,Yeezy Foam RNNR MX Sand Grey,Yeezy,Foam RNNR,Slides,Men,2021-12-11,2021,80,Grey,MX Sand Grey/Multi,120,50,0,
+361,New Balance 550 White Green GS,New Balance,550,Basketball,GS,2022-04-01,2022,95,White,White/Green,71.25,-25,0,
+362,New Balance 550 White Pink Women,New Balance,550,Basketball,Women,2022-05-01,2022,120,Pink,White/Pink,180,50,0,
+363,New Balance 550 UNC GS,New Balance,550,Basketball,GS,2021-06-01,2021,95,Blue,White/Carolina Blue,142.5,50,0,
+364,New Balance 650R Aime Leon Dore White Green,New Balance,650R,Basketball,Men,2022-04-16,2022,165,Green,White/Green,660,300,1,Aime Leon Dore
+365,New Balance 650R Aime Leon Dore White Red,New Balance,650R,Basketball,Men,2022-04-16,2022,165,Red,White/Red,825,400,1,Aime Leon Dore
+366,New Balance 2002R Salehe Bembury Water Be the Guide,New Balance,2002R,Lifestyle,Men,2021-06-25,2021,150,Green,Green/Orange/Blue,750,400,1,Salehe Bembury
+367,New Balance 2002R Aime Leon Dore Rain Cloud,New Balance,2002R,Lifestyle,Men,2021-10-09,2021,150,Grey,Rain Cloud/Grey,450,200,1,Aime Leon Dore
+368,New Balance 990v3 Joe Freshgoods Outside Clothes,New Balance,990v3,Running,Men,2021-09-10,2021,220,Blue,Blue/Brown,880,300,1,Joe Freshgoods
+369,New Balance 9060 Black Castlerock,New Balance,9060,Lifestyle,Men,2022-09-03,2022,150,Black,Black/Castlerock,150,0,0,
+370,New Balance 9060 Sea Salt Pink,New Balance,9060,Lifestyle,Women,2023-03-01,2023,150,Pink,Sea Salt/Pink,225,50,0,
+371,ASICS Gel-Kayano 14 Cream Black,ASICS,Gel-Kayano 14,Running,Men,2021-06-01,2021,150,Cream,Cream/Black,225,50,0,
+372,ASICS Gel-Kayano 14 White Midnight,ASICS,Gel-Kayano 14,Running,Men,2021-07-01,2021,150,White,White/Midnight,112.5,-25,0,
+373,ASICS GT-2160 JJJJound Grey,ASICS,GT-2160,Running,Men,2023-07-28,2023,160,Grey,Grey/White,800,400,1,JJJJound
+374,ASICS Gel-Nimbus 25 Black,ASICS,Gel-Nimbus 25,Running,Men,2023-02-01,2023,160,Black,Black/Black,160,0,0,
+375,ASICS Gel-Nimbus 24 White Blue,ASICS,Gel-Nimbus 24,Running,Men,2022-01-01,2022,160,White,White/Blue,120,-25,0,
+376,Salomon XT-6 Vanilla Ice,Salomon,XT-6,Trail,Unisex,2022-03-01,2022,200,White,Vanilla Ice/White,300,50,0,
+377,Salomon XT-6 Fiery Red,Salomon,XT-6,Trail,Unisex,2019-02-01,2019,190,Red,Fiery Red/Black,285,50,0,
+378,Salomon XT-6 Advanced Lapis Blue,Salomon,XT-6,Trail,Unisex,2018-09-01,2018,190,Blue,Lapis Blue/White,95,-50,0,
+379,Salomon XT-4 Advanced OG Black,Salomon,XT-4,Trail,Unisex,2018-04-01,2018,180,Black,Black/White,135,-25,0,
+380,Salomon ACS Pro Advanced Metal Grey,Salomon,ACS Pro,Trail,Unisex,2022-09-01,2022,220,Grey,Metal Grey/White,330,50,0,
+381,Nike Free Metcon 4 Black Volt,Nike,Free Metcon 4,Training,Men,2021-04-01,2021,120,Black,Black/Volt,84,-30,0,
+382,Nike Metcon 8 White Black,Nike,Metcon 8,Training,Men,2022-08-18,2022,130,White,White/Black,97.5,-25,0,
+383,Nike Metcon 7 Mat Fraser PE,Nike,Metcon 7,Training,Men,2021-07-01,2021,130,Grey,Grey/Red/Black,260,100,1,Mat Fraser
+384,Nike SuperRep Go 3 Flyknit,Nike,SuperRep Go 3,Training,Women,2021-08-01,2021,110,Black,Black/White,55,-50,0,
+385,Nike Romaleos 4 Black Metallic Gold,Nike,Romaleos 4,Training,Men,2020-04-01,2020,200,Black,Black/Metallic Gold,300,50,0,
+386,Reebok Nano X1 Black Gum,Reebok,Nano X1,Training,Men,2021-02-01,2021,130,Black,Black/Gum,97.5,-25,0,
+387,Reebok Nano X3 Adventure Khaki,Reebok,Nano X3,Training,Men,2023-03-01,2023,150,Green,Khaki/Green,225,50,0,
+388,Nike SB Dunk Low Pro Court Purple,Nike,Dunk Low,Skate,Men,2021-01-23,2021,100,Purple,Court Purple/White/Black,200,100,0,
+389,Nike SB Dunk Low Pro Wheat,Nike,Dunk Low,Skate,Men,2020-10-17,2020,100,Brown,Wheat/Light Fusion Red,150,50,0,
+390,Nike SB Dunk Low Pro Frame Skate Habibi,Nike,Dunk Low,Skate,Men,2020-12-05,2020,110,Red,White/Red/Green,550,400,1,Frame Skate
+391,Vans Old Skool Anaheim Factory OG Black,Vans,Old Skool,Skate,Unisex,2017-01-01,2017,80,Black,Black/White,60,-25,0,
+392,Vans Slip-On Anaheim Factory OG Navy,Vans,Slip-On,Skate,Unisex,2017-01-01,2017,80,Blue,Navy/White,120,50,0,
+393,Converse Chuck 70 Hi Sunflower,Converse,Chuck 70,Lifestyle,Unisex,2019-01-01,2019,85,Yellow,Sunflower/White,63.75,-25,0,
+394,Converse Chuck 70 Hi Midnight Navy,Converse,Chuck 70,Lifestyle,Unisex,2019-01-01,2019,85,Blue,Midnight Navy/White,127.5,50,0,
+395,Crocs Classic Crush Clog Bone,Crocs,Classic Crush,Slides,Unisex,2022-02-01,2022,65,Cream,Bone/Bone,48.75,-25,0,
+396,Crocs Classic Mega Crush Clog Black,Crocs,Mega Crush,Slides,Women,2022-08-01,2022,75,Black,Black/Black,150,100,0,
+397,Crocs Echo Clog Stucco,Crocs,Echo Clog,Slides,Unisex,2022-03-01,2022,70,Tan,Stucco/Stucco,105,50,0,
+398,Hoka One One Arahi 6 Blue Graphite,Hoka One One,Arahi 6,Running,Men,2022-01-15,2022,140,Blue,Blue Graphite/Black,105,-25,0,
+399,Hoka One One Clifton 9 Sunlit Ocean,Hoka One One,Clifton 9,Running,Men,2023-02-15,2023,145,Blue,Sunlit Ocean/Illusion,217.5,50,0,
+400,On Running Cloudsurfer 7 Wash Ink,On,Cloudsurfer 7,Running,Men,2023-03-23,2023,160,Blue,Wash/Ink,120,-25,0,
+401,Saucony Endorphin Speed 2 Vizipro,Saucony,Endorphin Speed 2,Running,Men,2021-10-01,2021,160,Orange,Vizipro Orange/Black,120,-25,0,
+402,Saucony Endorphin Pro 3 Prospect Quartz,Saucony,Endorphin Pro 3,Running,Men,2022-07-01,2022,225,Pink,Prospect Quartz/Black,337.5,50,0,
+403,Saucony Triumph 19 Future Black,Saucony,Triumph 19,Running,Men,2021-07-01,2021,150,Black,Black/Charcoal,112.5,-25,0,
+404,Saucony Ride 15 Cool Mint,Saucony,Ride 15,Running,Women,2022-04-01,2022,140,Green,Cool Mint/Acid,105,-25,0,
+405,Brooks Ghost 14 Black White,Brooks,Ghost 14,Running,Men,2021-06-01,2021,140,Black,Black/White,140,0,0,
+406,Brooks Ghost 15 Peacoat Pearl,Brooks,Ghost 15,Running,Men,2022-11-01,2022,140,Blue,Peacoat/Pearl,105,-25,0,
+407,Brooks Adrenaline GTS 22 Alloy,Brooks,Adrenaline GTS 22,Running,Men,2021-12-01,2021,140,Grey,Alloy/Black,210,50,0,
+408,Brooks Glycerin 20 Oyster Mushroom,Brooks,Glycerin 20,Running,Men,2022-07-01,2022,160,Grey,Oyster Mushroom/Alloy,160,0,0,
+409,Nike ZoomX Invincible Run Flyknit 3 White Volt,Nike,ZoomX Invincible Run Flyknit 3,Running,Men,2023-02-02,2023,180,White,White/Volt/Black,135,-25,0,
+410,Nike React Infinity Run Flyknit 2 Black White,Nike,React Infinity Run Flyknit 2,Running,Men,2021-01-07,2021,160,Black,Black/White,112,-30,0,
+411,Nike Pegasus Turbo Next Nature White Mint,Nike,Pegasus Turbo Next Nature,Running,Men,2022-08-11,2022,150,White,White/Mint Foam,225,50,0,
+412,Nike Air Zoom Structure 24 Black Smoke Grey,Nike,Air Zoom Structure 24,Running,Men,2021-09-01,2021,130,Black,Black/Smoke Grey,97.5,-25,0,
+413,Nike Air Zoom Alphafly NEXT Percent 2 Proto,Nike,Air Zoom Alphafly NEXT% 2,Running,Men,2022-07-07,2022,275,Green,Barely Volt/Volt,412.5,50,0,
+414,Nike Vomero 16 Grey Crimson,Nike,Zoom Vomero 16,Running,Men,2021-06-01,2021,150,Grey,Grey/Bright Crimson,112.5,-25,0,
+415,adidas Terrex Swift R3 GTX Black,adidas,Terrex Swift R3 GTX,Trail,Men,2021-03-01,2021,160,Black,Core Black/Grey Three,160,0,0,
+416,adidas Terrex Free Hiker 2 Magic Mauve,adidas,Terrex Free Hiker 2,Trail,Women,2022-09-01,2022,200,Pink,Magic Mauve/Shadow Violet,150,-25,0,
+417,adidas Terrex Speed Ultra White Solar Red,adidas,Terrex Speed Ultra,Trail,Men,2021-02-01,2021,160,White,White/Solar Red,80,-50,0,
+418,Hoka Speedgoat 5 Dazzling Blue,Hoka One One,Speedgoat 5,Trail,Men,2022-03-15,2022,155,Blue,Dazzling Blue/Black,232.5,50,0,
+419,Hoka Speedgoat 5 Festival Fuchsia,Hoka One One,Speedgoat 5,Trail,Women,2022-04-01,2022,155,Pink,Festival Fuchsia/Black,116.25,-25,0,
+420,Hoka Mafate Speed 4 Castlerock,Hoka One One,Mafate Speed 4,Trail,Men,2022-07-01,2022,185,Grey,Castlerock/Harbor Mist,277.5,50,0,
+421,Hoka Anacapa Mid GTX Chocolate,Hoka One One,Anacapa Mid GTX,Hiking,Men,2021-10-01,2021,195,Brown,Chocolate Chip/Praline,146.25,-25,0,
+422,Salomon Speedcross 5 Black Salomon,Salomon,Speedcross 5,Trail,Unisex,2019-02-01,2019,130,Black,Black/Black,97.5,-25,0,
+423,Salomon Speedcross 5 GORE TEX Navy,Salomon,Speedcross 5 GTX,Trail,Unisex,2019-09-01,2019,150,Blue,Navy Blazer/Black,150,0,0,
+424,Salomon XA Pro 3D v8 Black,Salomon,XA Pro 3D v8,Trail,Unisex,2020-01-01,2020,130,Black,Black/Phantom,65,-50,0,
+425,Nike Calm Slide Black,Nike,Calm Slide,Slides,Men,2023-07-14,2023,50,Black,Black/Black,75,50,0,
+426,Nike Calm Slide Sesame,Nike,Calm Slide,Slides,Men,2023-07-14,2023,50,Tan,Sesame/Sesame,37.5,-25,0,
+427,adidas Adilette 22 Magic Lime,adidas,Adilette 22,Slides,Men,2022-06-01,2022,55,Green,Magic Lime/Magic Lime,110,100,0,
+428,adidas Adilette 22 Magic Earth,adidas,Adilette 22,Slides,Men,2022-06-01,2022,55,Brown,Magic Earth/Magic Earth,82.5,50,0,
+429,Crocs Echo Clog Black,Crocs,Echo Clog,Slides,Unisex,2022-03-01,2022,70,Black,Black/Black,70,0,0,
+430,Crocs Pollex Clog Tide,Crocs,Pollex Clog,Slides,Men,2022-05-24,2022,85,Blue,Tide/Blue,340,300,1,Salehe Bembury
+431,Crocs Pollex Clog Sasquatch,Crocs,Pollex Clog,Slides,Men,2022-09-22,2022,85,Black,Black/Black,255,200,1,Salehe Bembury
+432,Nike ZoomX Streakfly Barely Volt,Nike,ZoomX Streakfly,Running,Men,2022-02-24,2022,160,Yellow,Barely Volt/Black,240,50,0,
+433,Nike Air Zoom Terra Kiger 8 Ocean Cube,Nike,Terra Kiger 8,Trail,Men,2022-03-01,2022,140,Blue,Ocean Cube/Obsidian,105,-25,0,
+434,Nike Wildhorse 7 Electric Green,Nike,Wildhorse 7,Trail,Men,2021-01-01,2021,130,Green,Electric Green/Black,65,-50,0,
+435,Nike Pegasus Trail 4 Dark Teal,Nike,Pegasus Trail 4,Trail,Men,2022-05-01,2022,140,Green,Dark Teal/Black,140,0,0,
+436,Nike Free Run 5.0 Black,Nike,Free Run 5.0,Running,Women,2021-04-01,2021,100,Black,Black/Anthracite,75,-25,0,
+437,Nike SuperRep Cycle 2 Next Nature,Nike,SuperRep Cycle 2,Training,Women,2021-09-01,2021,100,Black,Black/Volt,50,-50,0,
+438,Nike Air Zoom SuperRep 3 Lemon Venom,Nike,Air Zoom SuperRep 3,Training,Women,2021-07-01,2021,120,Yellow,Lemon Venom/Black,60,-50,0,
+439,Reebok Nano X2 Adventure Green,Reebok,Nano X2 Adventure,Training,Men,2022-08-01,2022,140,Green,Green/Black,105,-25,0,
+440,Reebok Nano X2 Core Black,Reebok,Nano X2,Training,Men,2022-04-01,2022,135,Black,Core Black/Footwear White,101.25,-25,0,
+441,Nike SB Ishod Black Gum,Nike,SB Ishod,Skate,Men,2022-01-07,2022,100,Black,Black/Varsity Red/Gum,75,-25,0,
+442,Nike SB Nyjah Free 2 Summit White,Nike,SB Nyjah Free 2,Skate,Men,2020-08-01,2020,95,White,Summit White/Black,47.5,-50,0,
+443,Nike SB Force 58 Black White,Nike,SB Force 58,Skate,Men,2021-02-01,2021,75,Black,Black/White,56.25,-25,0,
+444,Vans Skate Old Skool Blackout,Vans,Skate Old Skool,Skate,Men,2021-04-01,2021,75,Black,Black/Black,75,0,0,
+445,Vans Skate Half Cab Blue White,Vans,Skate Half Cab,Skate,Men,2021-09-01,2021,85,Blue,Blue/White,63.75,-25,0,
+446,Converse Cons One Star Pro Black,Converse,One Star Pro,Skate,Men,2019-03-01,2019,75,Black,Black/White,75,0,0,
+447,Converse Run Star Hike Black White,Converse,Run Star Hike,Lifestyle,Women,2019-11-01,2019,110,Black,Black/White/Gum,165,50,0,
+448,Converse Chuck 70 Plus Egret,Converse,Chuck 70 Plus,Lifestyle,Women,2021-08-01,2021,110,Cream,Egret/Black,82.5,-25,0,
+449,Puma Suede Classic Black White,Puma,Suede Classic,Lifestyle,Men,2016-01-01,2016,65,Black,Black/White,48.75,-25,0,
+450,Puma Suede XL Navy,Puma,Suede XL,Lifestyle,Men,2023-02-01,2023,85,Blue,Navy/White,85,0,0,
+451,Puma Clyde All Pro Kuzma Mid,Puma,Clyde All Pro,Basketball,Men,2020-10-01,2020,140,Yellow,Yellow/Black,210,50,1,Kyle Kuzma
+452,Puma MB 01 LaMelo Ball Red Blast,Puma,MB 01,Basketball,Men,2021-12-16,2021,125,Red,Red Blast/Fiery Red,187.5,50,0,
+453,Puma MB 02 Slime,Puma,MB 02,Basketball,Men,2022-10-21,2022,130,Green,Green/Yellow,65,-50,0,
+454,Jordan Luka 1 Neo Turquoise,Jordan,Luka 1,Basketball,Men,2022-07-07,2022,110,Blue,Neo Turquoise/Blue,82.5,-25,0,
+455,Jordan Zion 2 Voodoo,Jordan,Zion 2,Basketball,Men,2022-06-22,2022,140,Brown,Flax/Muslin/Fossil,280,100,0,
+456,Nike GT Cut 3 White Pure Platinum,Nike,GT Cut 3,Basketball,Men,2024-02-01,2024,190,White,White/Pure Platinum,190,0,0,
+457,Nike Ja 1 Day One,Nike,Ja 1,Basketball,Men,2023-04-19,2023,110,Blue,Cobalt Bliss/Citron Tint,82.5,-25,0,
+458,Nike Sabrina 1 ION,Nike,Sabrina 1,Basketball,Women,2023-08-03,2023,130,Grey,Light Bone/Photon Dust,195,50,0,
+459,Nike KD 15 Beginnings,Nike,KD 15,Basketball,Men,2022-05-22,2022,150,Red,University Red/Black,75,-50,0,
+460,Under Armour Curry 8 Flow White Gold,Under Armour,Curry 8,Basketball,Men,2020-12-11,2020,160,White,White/Metallic Gold,80,-50,0,
+461,Under Armour Curry 10 Iron Sharpens Iron,Under Armour,Curry 10,Basketball,Men,2022-10-21,2022,160,Green,Green/Yellow,240,50,0,
+462,Under Armour HOVR Phantom 3 Black,Under Armour,HOVR Phantom 3,Running,Men,2022-08-01,2022,140,Black,Black/White,98,-30,0,
+463,Under Armour HOVR Machina 3 White,Under Armour,HOVR Machina 3,Running,Men,2023-02-01,2023,150,White,White/Black,112.5,-25,0,
+464,Saucony Jazz Original Vintage Navy,Saucony,Jazz Original Vintage,Lifestyle,Men,2018-04-01,2018,60,Blue,Navy/White,45,-25,0,
+465,Saucony Shadow 6000 Food Fight,Saucony,Shadow 6000,Lifestyle,Men,2021-10-15,2021,140,Multi,Multi Color,420,200,0,
+466,Saucony Shadow 6000 Pearl,Saucony,Shadow 6000,Lifestyle,Women,2022-03-01,2022,140,White,Pearl/White,105,-25,0,
+467,Saucony Endorphin Edge Pine,Saucony,Endorphin Edge,Trail,Men,2022-09-01,2022,200,Green,Pine/Black,100,-50,0,
+468,Mizuno Wave Rider 25 India Ink,Mizuno,Wave Rider 25,Running,Men,2021-07-01,2021,140,Blue,India Ink/White,105,-25,0,
+469,Mizuno Wave Rider 26 Neo Lime,Mizuno,Wave Rider 26,Running,Men,2022-07-01,2022,150,Green,Neo Lime/White,150,0,0,
+470,Mizuno Wave Rebellion Pro Bolt,Mizuno,Wave Rebellion Pro,Running,Men,2023-02-01,2023,250,Yellow,Bolt/White,375,50,0,
+471,Brooks Hyperion Elite 3 Nightlife,Brooks,Hyperion Elite 3,Running,Men,2022-10-01,2022,250,Yellow,Nightlife/Black,375,50,0,
+472,Brooks Catamount 2 Peacoat,Brooks,Catamount 2,Trail,Men,2022-03-01,2022,170,Blue,Peacoat/Orange,127.5,-25,0,
+473,On Cloud 5 Midnight White,On,Cloud 5,Lifestyle,Men,2022-02-01,2022,140,Blue,Midnight/White,140,0,0,
+474,On Cloudnova Flux Ice Mineral,On,Cloudnova Flux,Lifestyle,Women,2023-03-01,2023,160,White,Ice/Mineral,120,-25,0,
+475,On Cloudmonster Black Magnet,On,Cloudmonster,Running,Men,2022-04-01,2022,170,Black,Black/Magnet,255,50,0,
+476,New Balance Fresh Foam 1080v12 Black,New Balance,Fresh Foam 1080v12,Running,Men,2022-02-01,2022,160,Black,Black/Phantom,120,-25,0,
+477,New Balance Fresh Foam Hierro v7 Military Green,New Balance,Fresh Foam Hierro v7,Trail,Men,2022-03-01,2022,140,Green,Military Green/Yellow,70,-50,0,
+478,New Balance FuelCell Rebel v3 Light Arctic Grey,New Balance,FuelCell Rebel v3,Running,Men,2022-09-01,2022,130,Grey,Arctic Grey/Light Slate,97.5,-25,0,
+479,New Balance FuelCell SuperComp Elite v3 Neon Dragonfly,New Balance,FuelCell SuperComp Elite v3,Running,Men,2023-02-01,2023,250,Pink,Neon Dragonfly/Black,375,50,0,
+480,New Balance XC 72 Casablanca Mushroom,New Balance,XC-72,Lifestyle,Men,2021-09-11,2021,150,Brown,Mushroom/Orange,450,200,1,Casablanca
+481,Jordan Delta 3 SP Black Infrared,Jordan,Delta 3 SP,Lifestyle,Men,2022-07-01,2022,160,Black,Black/Infrared 23,80,-50,0,
+482,Jordan MA2 Future Beginnings,Jordan,MA2,Lifestyle,Men,2021-02-25,2021,125,White,White/Black/Volt,62.5,-50,0,
+483,Nike Air Huarache Scream Green (2021),Nike,Air Huarache,Lifestyle,Men,2021-04-19,2021,120,Green,Scream Green/Black/White,180,50,0,
+484,Nike Air Huarache Triple Black,Nike,Air Huarache,Lifestyle,Men,2021-06-01,2021,120,Black,Black/Black,90,-25,0,
+485,Nike Air Max Plus 3 Hyper Blue,Nike,Air Max Plus 3,Running,Men,2019-11-08,2019,190,Blue,Hyper Blue/Black,285,50,0,
+486,Nike Air Max Plus 3 Lava Glow,Nike,Air Max Plus 3,Running,Men,2019-11-08,2019,190,Pink,Lava Glow/Black,95,-50,0,
+487,adidas ZX 8000 Aqua,adidas,ZX 8000,Lifestyle,Men,2020-02-01,2020,120,Blue,Aqua/Yellow/Purple,180,50,0,
+488,adidas ZX 2K Boost Black,adidas,ZX 2K Boost,Lifestyle,Men,2020-08-01,2020,150,Black,Core Black/Core Black,112.5,-25,0,
+489,adidas Nite Jogger Core Black,adidas,Nite Jogger,Lifestyle,Men,2019-01-12,2019,130,Black,Core Black/Carbon,65,-50,0,
+490,adidas 4D Run 1.0 Core White,adidas,4D Run 1.0,Running,Men,2020-02-01,2020,220,White,Footwear White/Signal Coral,220,0,0,
+491,Reebok Zig Kinetica II Edge Black,Reebok,Zig Kinetica II Edge,Trail,Men,2021-09-01,2021,140,Black,Core Black/Vector Red,70,-50,0,
+492,Reebok Beatnik Hemp Beige,Reebok,Beatnik,Slides,Unisex,2020-07-01,2020,120,Tan,Hemp/Beige,180,50,0,
+493,Reebok Beatnik Cordura Olive,Reebok,Beatnik,Slides,Unisex,2021-07-01,2021,130,Green,Olive/Black,65,-50,0,
+494,Salomon RX Slide 3.0 Vanilla Ice,Salomon,RX Slide 3.0,Slides,Unisex,2019-04-01,2019,60,White,Vanilla Ice/White,90,50,0,
+495,Salomon RX Moc 3.0 Black,Salomon,RX Moc 3.0,Slides,Unisex,2018-06-01,2018,60,Black,Black/Black,45,-25,0,
+496,Hoka Ora Recovery Slide 3 Black,Hoka One One,Ora Recovery Slide 3,Slides,Unisex,2022-04-01,2022,60,Black,Black/Black,60,0,0,
+497,Hoka Ora Recovery Slide 3 Nimbus Cloud,Hoka One One,Ora Recovery Slide 3,Slides,Unisex,2022-04-01,2022,60,Grey,Nimbus Cloud/Harbor Mist,45,-25,0,
+498,Nike Offline 2.0 Black,Nike,Offline 2.0,Slides,Men,2021-06-01,2021,120,Black,Black/Anthracite,60,-50,0,
+499,Nike Offline 2.0 Ocean Cube,Nike,Offline 2.0,Slides,Women,2021-06-01,2021,120,Blue,Ocean Cube/Light Armory Blue,90,-25,0,
+500,adidas Yeezy Slide Azure,Yeezy,Yeezy Slide,Slides,Men,2023-06-01,2023,70,Blue,Azure/Azure,140,100,0,
+501,Air Jordan 1 Retro High OG Palomino,Jordan,Air Jordan 1,Basketball,Men,2023-09-02,2023,180,Brown,Black/Metallic Gold/Palomino/Sail,270,50,0,
+502,Air Jordan 1 Retro High OG Spider-Verse Next Chapter,Jordan,Air Jordan 1,Basketball,Men,2023-05-20,2023,200,Red,University Red/Black/White,400,100,1,Marvel
+503,Air Jordan 1 Retro High OG UNC Toe,Jordan,Air Jordan 1,Basketball,Men,2023-07-22,2023,180,Blue,University Blue/Black/White,270,50,0,
+504,Air Jordan 1 Retro High OG Royal Reimagined,Jordan,Air Jordan 1,Basketball,Men,2023-11-04,2023,180,Blue,Black/Royal Blue/White,162,-10,0,
+505,Air Jordan 1 Retro High OG Heritage 2.0,Jordan,Air Jordan 1,Basketball,Men,2023-10-01,2023,180,Red,University Red/White/Black,135,-25,0,
+506,Air Jordan 4 Retro Red Cement,Jordan,Air Jordan 4,Basketball,Men,2023-09-09,2023,210,Red,White/Fire Red/Black,315,50,0,
+507,Air Jordan 4 Retro Cacao Wow (GS),Jordan,Air Jordan 4,Basketball,GS,2023-09-12,2023,160,Brown,Cacao Wow/Sail,120,-25,0,
+508,Air Jordan 4 Retro Metallic Gold (Women),Jordan,Air Jordan 4,Basketball,Women,2024-03-09,2024,210,Gold,White/Metallic Gold,315,50,0,
+509,Air Jordan 5 Retro Green Bean (2022),Jordan,Air Jordan 5,Basketball,Men,2022-05-28,2022,200,Grey,Silver/Green Bean/Flint Grey,140,-30,0,
+510,Air Jordan 5 Retro UNC,Jordan,Air Jordan 5,Basketball,Men,2023-03-04,2023,225,Blue,University Blue/Black/White,337.5,50,0,
+511,Air Jordan 7 Retro Citrus (2022),Jordan,Air Jordan 7,Basketball,Men,2022-08-13,2022,200,Black,Black/Citrus/Varisty Red,100,-50,0,
+512,Air Jordan 8 Retro Playoffs (2023),Jordan,Air Jordan 8,Basketball,Men,2023-09-30,2023,210,Black,Black/True Red,315,50,0,
+513,Air Jordan 13 Retro Court Purple,Jordan,Air Jordan 13,Basketball,Men,2022-01-08,2022,190,Purple,Black/White/Court Purple,142.5,-25,0,
+514,Air Jordan 2 Retro Lucky Green,Jordan,Air Jordan 2,Basketball,Men,2023-02-03,2023,175,Green,White/Lucky Green/Sail,87.5,-50,0,
+515,Air Jordan 2 Retro Cement Grey,Jordan,Air Jordan 2,Basketball,Men,2023-05-06,2023,175,Grey,White/Cement Grey,131.25,-25,0,
+516,Air Jordan 1 Low Travis Scott Olive (Women),Jordan,Air Jordan 1,Basketball,Women,2023-04-26,2023,150,Green,Sail/University Red/Medium Olive,750,400,1,Travis Scott
+517,Air Jordan 1 Low OG Black Cement,Jordan,Air Jordan 1,Basketball,Men,2023-06-24,2023,140,Black,Black/Muslin/Tech Grey,98,-30,0,
+518,Air Jordan 1 Low OG Mystic Navy,Jordan,Air Jordan 1,Basketball,Men,2022-07-14,2022,130,Blue,Mystic Navy/Black/White,195,50,0,
+519,Air Jordan 1 Low OG UNC (2023),Jordan,Air Jordan 1,Basketball,Men,2023-07-29,2023,140,Blue,White/Dark Powder Blue,210,50,0,
+520,Air Jordan 1 Mid Ice Blue (Women),Jordan,Air Jordan 1 Mid,Basketball,Women,2022-10-25,2022,125,Blue,White/Ice Blue/Black,93.75,-25,0,
+521,Nike Dunk Low Sand Drift (Women),Nike,Dunk Low,Skate,Women,2023-04-04,2023,110,Brown,Sand Drift/Hemp,82.5,-25,0,
+522,Nike Dunk Low Industrial Blue Sashiko,Nike,Dunk Low,Skate,Men,2023-02-01,2023,120,Blue,Summit White/Industrial Blue,180,50,0,
+523,Nike Dunk Low Setsubun,Nike,Dunk Low,Skate,Men,2022-10-01,2022,120,Brown,Brown/Khaki/Purple,240,100,0,
+524,Nike Dunk Low Lottery Grey Fog,Nike,Dunk Low,Skate,Men,2022-08-31,2022,120,Grey,Grey Fog/Light Crimson,90,-25,0,
+525,Nike Dunk Low PRM Halloween Iron Grey,Nike,Dunk Low,Skate,Men,2022-10-27,2022,120,Grey,Iron Grey/Phantom,60,-50,0,
+526,Nike Dunk Low PRM Year of the Rabbit White Crimson,Nike,Dunk Low,Skate,Men,2023-01-22,2023,130,Red,White/Crimson,260,100,0,
+527,Nike Dunk Low Miami Hurricanes,Nike,Dunk Low,Skate,Men,2022-11-25,2022,110,Green,Gorge Green/Total Orange,165,50,0,
+528,Nike Dunk Low Clear Jade,Nike,Dunk Low,Skate,Men,2023-07-01,2023,110,Green,White/Clear Jade,165,50,0,
+529,Nike Dunk Low Just Do It Grey (GS),Nike,Dunk Low,Skate,GS,2022-07-15,2022,95,Grey,Grey/Orange/White,71.25,-25,0,
+530,Nike Dunk Low Reverse Panda (Women),Nike,Dunk Low,Skate,Women,2022-06-01,2022,100,White,Black/White,90,-10,0,
+531,Nike Air Max 1 Big Bubble 86 Red,Nike,Air Max 1,Running,Men,2023-03-26,2023,150,Red,White/University Red,225,50,0,
+532,Nike Air Max 1 Corduroy Baltic Blue,Nike,Air Max 1,Running,Men,2023-04-12,2023,160,Blue,Baltic Blue/Sesame,240,50,0,
+533,Nike Air Max 1 Shima Shima,Nike,Air Max 1,Running,Men,2023-03-10,2023,160,Brown,Sail/Neutral Grey/Medium Brown,80,-50,0,
+534,Nike Air Max 1 PRM Ugly Duckling Honeydew,Nike,Air Max 1,Running,Men,2022-11-17,2022,160,Green,Anthracite/Honeydew/Black,240,50,0,
+535,Nike Air Max 1 Pecan,Nike,Air Max 1,Running,Men,2022-11-17,2022,160,Brown,Pecan/Yellow Ochre,240,50,0,
+536,Nike Air Max 97 Atlantic Blue (2023),Nike,Air Max 97,Running,Men,2023-08-29,2023,185,Blue,Atlantic Blue/Voltage Yellow,138.75,-25,0,
+537,Nike Air Max 97 OG Gold Bullet (2023),Nike,Air Max 97,Running,Men,2023-03-07,2023,185,Gold,Metallic Gold/Varsity Red,277.5,50,0,
+538,Nike Air Max Plus Drift Black Grey,Nike,Air Max Plus Drift,Running,Men,2024-01-10,2024,185,Grey,Black/Grey/White,138.75,-25,0,
+539,Nike Air Max Plus Drift Dusty Cactus,Nike,Air Max Plus Drift,Running,Men,2024-02-01,2024,185,Green,Dusty Cactus/Black/White,277.5,50,0,
+540,Nike Air Max Pulse Phantom,Nike,Air Max Pulse,Running,Men,2023-03-26,2023,150,Grey,Phantom/White,112.5,-25,0,
+541,adidas Samba OG Wonder White,adidas,Samba OG,Lifestyle,Women,2023-05-01,2023,100,White,Wonder White/White/Gum,150,50,0,
+542,adidas Samba OG Clay Strata,adidas,Samba OG,Lifestyle,Women,2023-05-01,2023,100,Brown,Clay Strata/White/Gum,75,-25,0,
+543,adidas Samba OG Collegiate Green,adidas,Samba OG,Lifestyle,Men,2023-03-10,2023,100,Green,Collegiate Green/Cloud White/Gum,200,100,0,
+544,adidas Gazelle Indoor Collegiate Green,adidas,Gazelle Indoor,Lifestyle,Men,2022-10-01,2022,120,Green,Collegiate Green/Gum,180,50,0,
+545,adidas Gazelle Indoor Blue Fusion,adidas,Gazelle Indoor,Lifestyle,Women,2023-04-01,2023,120,Blue,Blue Fusion/Gum,90,-25,0,
+546,adidas Campus 00s Dark Green,adidas,Campus 00s,Lifestyle,Men,2022-12-01,2022,110,Green,Dark Green/White,165,50,0,
+547,adidas Campus 00s Crystal White,adidas,Campus 00s,Lifestyle,Women,2023-01-15,2023,110,White,Crystal White/Cloud White,82.5,-25,0,
+548,adidas Forum Low The Grinch,adidas,Forum Low,Lifestyle,Men,2023-12-01,2023,130,Green,Grinch Green/Red,260,100,1,The Grinch
+549,adidas Forum Low Bad Bunny Last Campus,adidas,Forum Low,Lifestyle,Men,2023-05-06,2023,160,Brown,Brown/White,800,400,1,Bad Bunny
+550,adidas Ultraboost Light Core Black,adidas,Ultraboost Light,Running,Men,2023-03-03,2023,190,Black,Core Black/Core Black,142.5,-25,0,
+551,Yeezy Boost 350 V2 Granite,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2022-12-03,2022,230,Grey,Granite/Black,230,0,0,
+552,Yeezy Boost 350 V2 Dazzling Blue,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2022-02-26,2022,230,Black,Core Black/Dazzling Blue,345,50,0,
+553,Yeezy Boost 350 V2 Onyx (2022),Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2022-06-20,2022,230,Black,Onyx/Onyx,345,50,0,
+554,Yeezy Boost 350 V2 MX Rock,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2021-12-22,2021,220,Brown,MX Rock/Multi,330,50,0,
+555,Yeezy Boost 350 V2 Slate,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2022-09-03,2022,230,Grey,Slate/Black,172.5,-25,0,
+556,Yeezy Boost 700 V2 Tephra,Yeezy,Yeezy Boost 700 V2,Lifestyle,Men,2019-06-15,2019,300,Grey,Tephra/Tephra,450,50,0,
+557,Yeezy Boost 700 V2 Hospital Blue,Yeezy,Yeezy Boost 700 V2,Lifestyle,Men,2019-09-28,2019,300,Blue,Hospital Blue/Gray,150,-50,0,
+558,Yeezy Boost 700 MNVN Orange,Yeezy,Yeezy Boost 700 MNVN,Lifestyle,Men,2020-02-28,2020,220,Orange,Orange/Black,330,50,0,
+559,Yeezy Boost 700 MNVN Triple Black,Yeezy,Yeezy Boost 700 MNVN,Lifestyle,Men,2020-02-28,2020,220,Black,Black/Black,165,-25,0,
+560,Yeezy Foam RNNR Stone Sage,Yeezy,Foam RNNR,Slides,Men,2022-03-11,2022,90,Brown,Stone Sage/Stone Sage,135,50,0,
+561,New Balance 1906R Eclipse Castlerock,New Balance,1906R,Running,Men,2023-03-01,2023,150,Blue,Eclipse/Castlerock,225,50,0,
+562,New Balance 1906R Silver Metallic,New Balance,1906R,Running,Men,2023-04-01,2023,150,Silver,Silver Metallic/White,112.5,-25,0,
+563,New Balance 1906D Protection Pack Chrome Blue,New Balance,1906D,Running,Men,2023-06-01,2023,170,Blue,Chrome Blue/Grey,340,100,0,
+564,New Balance 9060 Moonrock,New Balance,9060,Lifestyle,Men,2023-06-01,2023,150,Grey,Moonrock/Incense,225,50,0,
+565,New Balance 9060 Driftwood,New Balance,9060,Lifestyle,Men,2023-04-15,2023,150,Brown,Driftwood/Stone Pink,112.5,-25,0,
+566,New Balance 550 White Team Red,New Balance,550,Basketball,Men,2021-03-01,2021,110,Red,White/Team Red,165,50,0,
+567,New Balance 550 White Burgundy,New Balance,550,Basketball,Men,2022-01-01,2022,110,Burgundy,White/Burgundy,82.5,-25,0,
+568,New Balance 650R White Green,New Balance,650R,Basketball,Men,2022-08-01,2022,150,Green,White/Green,225,50,0,
+569,New Balance 860v2 White Silver,New Balance,860v2,Running,Men,2023-01-01,2023,130,White,White/Silver,97.5,-25,0,
+570,New Balance 530 White Silver Navy,New Balance,530,Running,Men,2021-04-01,2021,100,White,White/Silver/Navy,150,50,0,
+571,ASICS GT-2160 White Clay Canyon,ASICS,GT-2160,Running,Men,2023-06-01,2023,120,White,White/Clay Canyon,180,50,0,
+572,ASICS GT-2160 White Lilac Hint,ASICS,GT-2160,Running,Women,2023-06-01,2023,120,White,White/Lilac Hint,90,-25,0,
+573,ASICS Gel-Kayano 14 Cream Pure Silver,ASICS,Gel-Kayano 14,Running,Men,2022-10-01,2022,150,Cream,Cream/Pure Silver,225,50,0,
+574,ASICS Gel-Kayano 14 Black Bright Orange,ASICS,Gel-Kayano 14,Running,Men,2022-09-01,2022,150,Black,Black/Bright Orange,112.5,-25,0,
+575,ASICS Gel-NYC Oyster Grey,ASICS,Gel-NYC,Lifestyle,Men,2023-02-03,2023,130,Grey,Oyster Grey/Carbon,195,50,0,
+576,ASICS Gel-NYC White Midnight,ASICS,Gel-NYC,Lifestyle,Men,2023-02-03,2023,130,White,White/Midnight,97.5,-25,0,
+577,Salomon XT-6 Advanced White Lunar Rock (2021),Salomon,XT-6,Trail,Unisex,2021-03-01,2021,190,White,White/Lunar Rock,285,50,0,
+578,Salomon XT-6 Advanced Black Lunar Rock,Salomon,XT-6,Trail,Unisex,2021-03-01,2021,190,Black,Black/Lunar Rock,142.5,-25,0,
+579,Salomon ACS Pro Advanced Vanilla Ice,Salomon,ACS Pro,Trail,Unisex,2022-10-01,2022,220,White,Vanilla Ice/White,330,50,0,
+580,Salomon XT-Quest 2 Advanced Magnet,Salomon,XT-Quest 2,Trail,Unisex,2020-09-01,2020,200,Grey,Magnet/Black,100,-50,0,
+581,Hoka Clifton 9 Black,Hoka One One,Clifton 9,Running,Men,2023-02-15,2023,145,Black,Black/Black,108.75,-25,0,
+582,Hoka Bondi 8 Black Copper,Hoka One One,Bondi 8,Running,Men,2022-08-15,2022,165,Black,Black/Copper,247.5,50,0,
+583,Hoka Speedgoat 5 Eggshell Blue,Hoka One One,Speedgoat 5,Trail,Women,2022-03-15,2022,155,Blue,Eggshell Blue/Harbor Mist,116.25,-25,0,
+584,Hoka Mach 5 White Copper,Hoka One One,Mach 5,Running,Men,2022-06-15,2022,140,White,White/Copper,210,50,0,
+585,On Cloud X 3 Black,On,Cloud X 3,Training,Men,2023-01-01,2023,150,Black,Black/Lead,112.5,-25,0,
+586,On Cloudrunner Frost Mineral,On,Cloudrunner,Running,Women,2022-04-01,2022,140,White,Frost/Mineral,210,50,0,
+587,On Cloudswift 3 AD Ivory,On,Cloudswift 3,Lifestyle,Women,2023-03-01,2023,160,White,Ivory/White,120,-25,0,
+588,On Cloudsurfer 7 Flame Dust,On,Cloudsurfer 7,Running,Men,2023-03-23,2023,160,Orange,Flame/Dust,240,50,0,
+589,Vans Knu Skool Black White,Vans,Knu Skool,Skate,Unisex,2023-01-01,2023,80,Black,Black/White,120,50,0,
+590,Vans Knu Skool Navy White,Vans,Knu Skool,Skate,Unisex,2023-01-01,2023,80,Blue,Navy/White,60,-25,0,
+591,Vans Old Skool Pig Suede Golden Brown,Vans,Old Skool,Skate,Unisex,2020-09-01,2020,75,Brown,Golden Brown/White,56.25,-25,0,
+592,Vans Slip-On VR3 Checkerboard Marshmallow,Vans,Slip-On,Skate,Unisex,2022-06-01,2022,70,White,Marshmallow/Checkerboard,105,50,0,
+593,Converse Chuck 70 Hi Natural Ivory,Converse,Chuck 70,Lifestyle,Unisex,2019-01-01,2019,85,Cream,Natural Ivory/Black,85,0,0,
+594,Converse Chuck 70 Hi Wolf Grey,Converse,Chuck 70,Lifestyle,Unisex,2022-09-01,2022,90,Grey,Wolf Grey/White,67.5,-25,0,
+595,Converse Chuck 70 Marquis Brown Egret,Converse,Chuck 70,Lifestyle,Unisex,2022-10-01,2022,90,Brown,Brown/Egret,135,50,0,
+596,Converse Run Star Legacy CX Black,Converse,Run Star Legacy,Lifestyle,Women,2022-07-01,2022,120,Black,Black/White,90,-25,0,
+597,Crocs Pollex Clog Niagara,Crocs,Pollex Clog,Slides,Men,2023-07-14,2023,85,Blue,Niagara/Blue,340,300,1,Salehe Bembury
+598,Crocs Pollex Clog Cobbler,Crocs,Pollex Clog,Slides,Men,2022-09-02,2022,85,Brown,Cobbler/Tan,255,200,1,Salehe Bembury
+599,Crocs Classic Clog Dylan Clog Black,Crocs,Dylan Clog,Slides,Men,2023-08-01,2023,55,Black,Black/Black,41.25,-25,0,
+600,Crocs Echo Clog Stucco Wild Fern,Crocs,Echo Clog,Slides,Unisex,2023-04-01,2023,75,Green,Stucco/Wild Fern,112.5,50,0,
+601,Air Jordan 11 Retro Cherry (2022),Jordan,Air Jordan 11,Basketball,Men,2022-12-10,2022,225,Red,White/Varsity Red/Black,337.5,50,0,
+602,Air Jordan 11 Retro Cool Grey (2021),Jordan,Air Jordan 11,Basketball,Men,2021-12-11,2021,225,Grey,Medium Grey/White/Cool Grey,337.5,50,0,
+603,Air Jordan 11 Retro Jubilee 25th Anniversary,Jordan,Air Jordan 11,Basketball,Men,2020-12-12,2020,220,Black,Black/Clear/White,165,-25,0,
+604,Air Jordan 11 Retro Space Jam (2016),Jordan,Air Jordan 11,Basketball,Men,2016-12-10,2016,220,Black,Black/Dark Concord/White,550,150,0,
+605,Air Jordan 3 Retro White Cement Reimagined,Jordan,Air Jordan 3,Basketball,Men,2023-03-11,2023,210,White,Summit White/Fire Red/Black,315,50,0,
+606,Air Jordan 3 Retro Dark Iris,Jordan,Air Jordan 3,Basketball,Men,2022-08-24,2022,200,Purple,White/Dark Iris/Black,140,-30,0,
+607,Air Jordan 3 Retro Midnight Navy,Jordan,Air Jordan 3,Basketball,Men,2024-01-13,2024,200,Blue,Midnight Navy/Cement Grey,300,50,0,
+608,Air Jordan 3 Retro UNC (2020),Jordan,Air Jordan 3,Basketball,Men,2020-03-07,2020,190,Blue,White/Valor Blue/Tech Grey,475,150,0,
+609,Air Jordan 11 Retro Gratitude Defining Moments,Jordan,Air Jordan 11,Basketball,Men,2023-12-09,2023,230,White,White/Black/Metallic Gold,345,50,0,
+610,Air Jordan 12 Retro Royalty Taxi,Jordan,Air Jordan 12,Basketball,Men,2021-11-13,2021,190,White,White/Black/Metallic Gold,142.5,-25,0,
+611,Air Jordan 9 Retro Fire Red,Jordan,Air Jordan 9,Basketball,Men,2022-11-05,2022,200,White,White/Fire Red/Cool Grey,100,-50,0,
+612,Air Jordan 9 Retro University Blue (2020),Jordan,Air Jordan 9,Basketball,Men,2020-12-05,2020,190,White,White/Black/University Blue,285,50,0,
+613,Air Jordan 8 Retro Rui Hachimura Black Samurai,Jordan,Air Jordan 8,Basketball,Men,2022-05-23,2022,225,Tan,Twine/Gym Red/Black,337.5,50,1,Rui Hachimura
+614,Air Jordan 37 Low Beast,Jordan,Air Jordan 37 Low,Basketball,Men,2023-03-08,2023,175,Black,Black/White/Yellow,87.5,-50,0,
+615,Air Jordan 38 Center Star,Jordan,Air Jordan 38,Basketball,Men,2023-08-18,2023,200,White,White/Blue/Gold,150,-25,0,
+616,Nike Kobe 8 Protro Halo,Nike,Kobe 8 Protro,Basketball,Men,2023-08-23,2023,180,White,White/White-White,270,50,0,
+617,Nike Kobe 6 Protro Grinch (2020),Nike,Kobe 6 Protro,Basketball,Men,2020-12-24,2020,180,Green,Green Apple/Volt/Crimson,900,400,0,
+618,Nike Kobe 5 Protro Bruce Lee (2020),Nike,Kobe 5 Protro,Basketball,Men,2020-11-24,2020,180,Yellow,Del Sol/Black/Comet Red,540,200,0,
+619,Nike KD 4 Galaxy,Nike,KD 4,Basketball,Men,2012-02-24,2012,95,Grey,Metallic Silver/Total Orange,475,400,0,
+620,Nike LeBron 9 South Coast,Nike,LeBron 9,Basketball,Men,2022-01-20,2022,210,Black,Black/Green Glow/Dutch Blue,157.5,-25,0,
+621,Nike Air Zoom GT Cut 2 Sabrina Ionescu,Nike,Zoom GT Cut 2,Basketball,Women,2023-10-01,2023,190,Black,Black/Volt/White,190,0,1,Sabrina Ionescu
+622,Nike Book 1 Mirage,Nike,Book 1,Basketball,Men,2024-03-07,2024,150,Beige,Light Orewood Brown/Sesame,225,50,0,
+623,Nike Ja 1 Hunger,Nike,Ja 1,Basketball,Men,2023-05-25,2023,110,White,White/University Red/Black,82.5,-25,0,
+624,Nike PG 6 Hot Wheels,Nike,PG 6,Basketball,Men,2022-02-09,2022,120,Black,Black/Total Orange,180,50,1,Hot Wheels
+625,Nike Zoom Freak 5 Made in Sepolia,Nike,Zoom Freak 5,Basketball,Men,2023-08-01,2023,140,White,White/Photo Blue,105,-25,0,
+626,Nike Dunk High Syracuse (2021),Nike,Dunk High,Skate,Men,2021-03-10,2021,110,Orange,White/Orange Blaze,220,100,0,
+627,Nike Dunk High Panda (Women),Nike,Dunk High,Skate,Women,2021-07-01,2021,110,Black,White/Black,82.5,-25,0,
+628,Nike SB Dunk High Strawberry Cough,Nike,Dunk High,Skate,Men,2021-10-22,2021,110,Red,University Red/Spinach Green,660,500,0,
+629,Nike SB Dunk Low Street Hawker,Nike,Dunk Low,Skate,Men,2021-01-22,2021,110,Multi,Copper/Light Silver/Sail,550,400,0,
+630,Nike SB Dunk Low Mummy,Nike,Dunk Low,Skate,Men,2021-10-28,2021,110,Cream,Coconut Milk/Seafoam,330,200,0,
+631,Nike SB Dunk Low Rayssa Leal,Nike,Dunk Low,Skate,Women,2024-01-20,2024,125,White,White/Pink/Blue,187.5,50,1,Rayssa Leal
+632,Nike SB Dunk Low The Powerpuff Girls Buttercup,Nike,Dunk Low,Skate,Women,2023-12-15,2023,135,Green,Mean Green/Black/Volt,405,200,1,The Powerpuff Girls
+633,Nike SB Dunk Low The Powerpuff Girls Blossom,Nike,Dunk Low,Skate,Women,2023-12-15,2023,135,Pink,Lotus Pink/Digital Pink,405,200,1,The Powerpuff Girls
+634,Nike SB Dunk Low The Powerpuff Girls Bubbles,Nike,Dunk Low,Skate,Women,2023-12-15,2023,135,Blue,Blue Chill/Deep Royal,405,200,1,The Powerpuff Girls
+635,Nike Dunk Low PRM Light Orewood Brown Sashiko,Nike,Dunk Low,Skate,Men,2024-02-17,2024,125,White,Light Orewood Brown/Sail,93.75,-25,0,
+636,Nike Dunk Low PRM Cider,Nike,Dunk Low,Skate,Men,2022-10-01,2022,120,Brown,Dark Cider/Off Noir,180,50,0,
+637,Nike Dunk Low SE Lottery Green,Nike,Dunk Low,Skate,Men,2022-08-31,2022,120,Green,Malachite/White,90,-25,0,
+638,Nike Dunk Low Retro PRM Halloween (2021),Nike,Dunk Low,Skate,Men,2021-10-21,2021,110,White,Sail/Starfish/Black,165,50,0,
+639,Nike Dunk Low Retro University Gold Midnight Navy,Nike,Dunk Low,Skate,Men,2020-11-27,2020,100,Yellow,University Gold/Midnight Navy,150,50,0,
+640,Nike Dunk Low Disrupt 2 Pale Ivory,Nike,Dunk Low Disrupt 2,Skate,Women,2022-03-01,2022,110,White,Pale Ivory/Black,82.5,-25,0,
+641,adidas Yeezy Boost 700 Wave Runner,Yeezy,Yeezy Boost 700,Lifestyle,Men,2017-08-12,2017,300,Grey,Multi Solid Grey/Chalk White/Core Black,600,100,0,
+642,adidas Yeezy Boost 700 Inertia,Yeezy,Yeezy Boost 700,Lifestyle,Men,2019-03-09,2019,300,Grey,Inertia/Reflective Silver,450,50,0,
+643,adidas Yeezy Boost 700 Salt,Yeezy,Yeezy Boost 700,Lifestyle,Men,2019-02-23,2019,300,Grey,Salt/Salt/Salt,210,-30,0,
+644,adidas Yeezy Boost 700 V3 Arzareth,Yeezy,Yeezy Boost 700 V3,Lifestyle,Men,2020-08-29,2020,200,Blue,Arzareth/Arzareth,300,50,0,
+645,adidas Yeezy Boost 380 Mist,Yeezy,Yeezy Boost 380,Lifestyle,Men,2020-02-29,2020,230,Brown,Mist/Mist,172.5,-25,0,
+646,adidas Yeezy 500 Utility Black,Yeezy,Yeezy 500,Lifestyle,Men,2018-07-07,2018,200,Black,Utility Black/Utility Black,300,50,0,
+647,adidas Yeezy 500 Blush,Yeezy,Yeezy 500,Lifestyle,Men,2018-04-14,2018,200,Cream,Blush/Blush,400,100,0,
+648,adidas Yeezy Desert Boot Rock,Yeezy,Yeezy Desert Boot,Lifestyle,Men,2019-09-14,2019,200,Brown,Rock/Desert Sand,150,-25,0,
+649,adidas Yeezy Desert Boot Oil,Yeezy,Yeezy Desert Boot,Lifestyle,Men,2019-09-14,2019,200,Brown,Oil/Oil,100,-50,0,
+650,adidas Yeezy NSLTD Boot Khaki,Yeezy,NSLTD Boot,Lifestyle,Men,2021-11-05,2021,250,Brown,Khaki/Khaki,375,50,0,
+651,adidas Samba Vegan White Black,adidas,Samba Vegan,Lifestyle,Unisex,2021-03-01,2021,80,White,Cloud White/Core Black/Gum,120,50,0,
+652,adidas Spezial Blackburn,adidas,Spezial,Lifestyle,Men,2019-10-01,2019,120,Green,Green/Red/Yellow,240,100,0,
+653,adidas Spezial Hoylake,adidas,Spezial,Lifestyle,Men,2019-10-01,2019,120,Blue,Blue/White/Gum,90,-25,0,
+654,adidas Superstar Sean Wotherspoon Superearth Black,adidas,Superstar,Lifestyle,Men,2021-10-29,2021,110,Black,Core Black/Footwear White,330,200,1,Sean Wotherspoon
+655,adidas ZX 8000 Lego Blue,adidas,ZX 8000,Lifestyle,Men,2021-02-27,2021,130,Blue,Blue/Yellow/Red,260,100,1,LEGO
+656,adidas Ultra 4D Black Purple,adidas,Ultra 4D,Running,Men,2020-09-01,2020,220,Black,Core Black/Active Purple,220,0,0,
+657,adidas Ultra 4D FWD Pulse Yellow,adidas,Ultra 4D,Running,Men,2021-04-01,2021,220,Yellow,Pulse Yellow/Core Black,165,-25,0,
+658,adidas Adizero Prime X Strung Pulse Lime,adidas,Adizero Prime X Strung,Running,Men,2022-09-15,2022,300,Green,Pulse Lime/Core Black,450,50,0,
+659,adidas Adizero Takumi Sen 9 White Lucid Blue,adidas,Adizero Takumi Sen 9,Running,Men,2022-12-01,2022,180,White,Footwear White/Lucid Blue,135,-25,0,
+660,adidas 4D FWD 2 Core Black,adidas,4D FWD 2,Running,Men,2022-06-01,2022,200,Black,Core Black/Core Black,150,-25,0,
+661,New Balance 991 Made in UK Grey,New Balance,991,Lifestyle,Men,2019-01-01,2019,220,Grey,Grey/Grey,220,0,0,
+662,New Balance 992 Grey,New Balance,992,Lifestyle,Men,2020-04-01,2020,175,Grey,Grey/Grey,525,200,0,
+663,New Balance 993 Made in USA Navy,New Balance,993,Lifestyle,Men,2021-10-01,2021,200,Blue,Navy/Navy,300,50,0,
+664,New Balance 990v5 Core Grey,New Balance,990v5,Running,Men,2019-04-01,2019,175,Grey,Grey/Castlerock,262.5,50,0,
+665,New Balance 990v6 Macadamia Nut,New Balance,990v6,Running,Men,2023-02-01,2023,200,Brown,Macadamia Nut/Sea Salt,300,50,0,
+666,New Balance 2002R Protection Pack Rain Cloud,New Balance,2002R,Lifestyle,Men,2021-08-14,2021,150,Grey,Rain Cloud/Grey,450,200,0,
+667,New Balance 2002R Protection Pack Phantom,New Balance,2002R,Lifestyle,Men,2021-08-14,2021,150,Black,Phantom/Black,300,100,0,
+668,New Balance 327 Casablanca Green,New Balance,327,Lifestyle,Men,2020-04-18,2020,150,Green,Green/Orange/White,450,200,1,Casablanca
+669,New Balance 327 Sea Salt Navy,New Balance,327,Lifestyle,Men,2020-07-01,2020,100,White,Sea Salt/Navy,75,-25,0,
+670,New Balance XC-72 Sea Salt Angora,New Balance,XC-72,Running,Men,2021-08-01,2021,120,White,Sea Salt/Angora,180,50,0,
+671,ASICS Gel-Lyte III OG Tokyo Nights,ASICS,Gel-Lyte III,Lifestyle,Men,2021-01-01,2021,120,Grey,Graphite Grey/Black,60,-50,0,
+672,ASICS Gel-Lyte III OG Arizona,ASICS,Gel-Lyte III,Lifestyle,Men,2021-01-01,2021,120,Orange,White/Orange,180,50,0,
+673,ASICS Gel-NYC Kith Cream,ASICS,Gel-NYC,Lifestyle,Men,2023-03-20,2023,150,Cream,Cream/White,450,200,1,Kith
+674,ASICS Gel-Nimbus 25 Tokyo,ASICS,Gel-Nimbus 25,Running,Men,2023-03-01,2023,170,Orange,Orange/Black,127.5,-25,0,
+675,ASICS Metaspeed Sky+,ASICS,Metaspeed Sky Plus,Running,Men,2022-06-01,2022,250,Blue,Island Blue/Black,375,50,0,
+676,ASICS Metaspeed Edge+,ASICS,Metaspeed Edge Plus,Running,Men,2022-06-01,2022,250,Yellow,Safety Yellow/Black,250,0,0,
+677,Salomon XT-6 Gore-Tex Royal Blue,Salomon,XT-6 GTX,Trail,Unisex,2022-10-01,2022,220,Blue,Royal Blue/Black,330,50,0,
+678,Salomon XT-6 Vanilla Ice Plum Kitten,Salomon,XT-6,Trail,Unisex,2022-03-01,2022,200,White,Vanilla Ice/Plum Kitten,300,50,0,
+679,Salomon XT-6 Monument Phantom,Salomon,XT-6,Trail,Unisex,2021-02-01,2021,190,Grey,Monument/Phantom,142.5,-25,0,
+680,Salomon ACS Pro Advanced Black Silver,Salomon,ACS Pro,Trail,Unisex,2022-09-01,2022,220,Black,Black/Silver Metallic,330,50,0,
+681,Hoka Tecton X 2 Radiant Yellow,Hoka One One,Tecton X 2,Trail,Men,2023-04-01,2023,225,Yellow,Radiant Yellow/Black,337.5,50,0,
+682,Hoka Rincon 3 Fiesta,Hoka One One,Rincon 3,Running,Men,2021-07-01,2021,120,Red,Fiesta/Black,90,-25,0,
+683,Hoka Kawana White Copper,Hoka One One,Kawana,Running,Women,2022-01-01,2022,140,White,White/Copper,105,-25,0,
+684,Hoka Clifton 8 Sunlit Ocean,Hoka One One,Clifton 8,Running,Men,2021-06-15,2021,140,Blue,Sunlit Ocean/Illusion,210,50,0,
+685,Hoka Bondi 7 Black,Hoka One One,Bondi 7,Running,Men,2020-08-01,2020,160,Black,Black/Black,160,0,0,
+686,Brooks Ghost 13 Nightlife,Brooks,Ghost 13,Running,Men,2020-08-01,2020,130,Yellow,Nightlife/Black,97.5,-25,0,
+687,Brooks Glycerin 19 Blackened Pearl,Brooks,Glycerin 19,Running,Men,2021-02-01,2021,150,Grey,Blackened Pearl/Black,150,0,0,
+688,Reebok Question Mid Georgetown,Reebok,Question Mid,Basketball,Men,2020-09-25,2020,140,Grey,Steel/Grey,210,50,0,
+689,Reebok Question Mid OG Blue Toe (2022),Reebok,Question Mid,Basketball,Men,2022-08-19,2022,160,Blue,Footwear White/Vector Blue,120,-25,0,
+690,Reebok Club C 85 Vintage Chalk,Reebok,Club C 85,Lifestyle,Men,2021-01-01,2021,80,Cream,Chalk/Paper White,120,50,0,
+691,Reebok Club C 85 JJJJound Grey,Reebok,Club C 85,Lifestyle,Men,2020-08-07,2020,150,Grey,Grey/Grey,450,200,1,JJJJound
+692,Under Armour Project Rock 4 Black,Under Armour,Project Rock 4,Training,Men,2020-09-01,2020,150,Black,Black/Black,112.5,-25,0,
+693,Under Armour Project Rock 5 White,Under Armour,Project Rock 5,Training,Men,2022-10-01,2022,150,White,White/Black,225,50,0,
+694,Vans Authentic Anaheim Factory 44 DX Black,Vans,Anaheim 44 DX,Lifestyle,Unisex,2017-01-01,2017,80,Black,Black/White,60,-25,0,
+695,Vans Sk8-Hi MTE 2.0 DX Brown,Vans,Sk8-Hi MTE 2.0 DX,Trail,Unisex,2019-10-01,2019,110,Brown,Brown/Black,82.5,-25,0,
+696,Converse Chuck 70 Hi Comme des Garçons Play Black,Converse,Chuck 70,Lifestyle,Unisex,2015-06-01,2015,135,Black,Black/White/Red Heart,270,100,1,Comme des Garçons
+697,Converse Chuck 70 Hi Comme des Garçons Play White,Converse,Chuck 70,Lifestyle,Unisex,2015-06-01,2015,135,White,White/Black/Red Heart,270,100,1,Comme des Garçons
+698,Crocs Classic Clog Lightning McQueen,Crocs,Classic Clog,Slides,Kids,2021-04-01,2021,50,Red,Lightning McQueen/Red,200,300,1,Disney
+699,Crocs Classic Clog Spiderman,Crocs,Classic Clog,Slides,Kids,2021-05-01,2021,50,Blue,Spider-Man/Blue,100,100,1,Marvel
+700,Nike Calm Mule Black,Nike,Calm Mule,Slides,Unisex,2023-10-18,2023,60,Black,Black/Black,90,50,0,
+701,Air Jordan 1 Retro High OG Game Royal,Jordan,Air Jordan 1,Basketball,Men,2018-03-24,2018,160,Blue,Game Royal/Summit White/Black,240,50,0,
+702,Air Jordan 1 Retro High OG Hyper Royal,Jordan,Air Jordan 1,Basketball,Men,2021-04-17,2021,170,Blue,Hyper Royal/Light Smoke Grey/White,425,150,0,
+703,Air Jordan 1 Retro High OG Pine Green 2.0,Jordan,Air Jordan 1,Basketball,Men,2020-02-29,2020,170,Green,Pine Green/Black/Sail,255,50,0,
+704,Air Jordan 1 Retro High OG Dark Mocha,Jordan,Air Jordan 1,Basketball,Men,2020-10-31,2020,170,Brown,Sail/Black/Dark Mocha,510,200,0,
+705,Air Jordan 1 Retro High OG Shadow 2.0,Jordan,Air Jordan 1,Basketball,Men,2021-05-15,2021,170,Grey,Light Smoke Grey/Black/White,255,50,0,
+706,Air Jordan 1 Retro High OG Obsidian,Jordan,Air Jordan 1,Basketball,Men,2019-08-31,2019,160,Blue,Sail/Obsidian/University Blue,320,100,0,
+707,Air Jordan 1 Retro High OG Court Purple (2018),Jordan,Air Jordan 1,Basketball,Men,2018-09-22,2018,160,Purple,Court Purple/White/Black,240,50,0,
+708,Air Jordan 1 Retro High OG Turbo Green,Jordan,Air Jordan 1,Basketball,Men,2019-02-15,2019,160,Green,Turbo Green/Sail/White,320,100,0,
+709,Air Jordan 1 Retro High OG Yellow Ochre,Jordan,Air Jordan 1,Basketball,Men,2024-01-27,2024,180,Yellow,Yellow Ochre/Black/Sail,270,50,0,
+710,Air Jordan 1 Retro High OG Smoke Grey,Jordan,Air Jordan 1,Basketball,Men,2020-07-11,2020,170,Grey,White/Light Smoke Grey/Varsity Red,255,50,0,
+711,Air Jordan 1 Mid SE Space Jam,Jordan,Air Jordan 1 Mid,Basketball,Men,2023-01-13,2023,135,Black,Black/Dark Concord/White,101.25,-25,0,
+712,Air Jordan 1 Mid SE Ice Blue (GS),Jordan,Air Jordan 1 Mid,Basketball,GS,2022-11-01,2022,110,Blue,White/Ice Blue/Black,82.5,-25,0,
+713,Air Jordan 1 Low Concord,Jordan,Air Jordan 1 Low,Basketball,Men,2023-01-17,2023,120,Black,White/Black/Concord,180,50,0,
+714,Air Jordan 1 Low Panda (Women),Jordan,Air Jordan 1 Low,Basketball,Women,2021-03-10,2021,100,Black,White/Black,100,0,0,
+715,Air Jordan 1 Low SE Diamond,Jordan,Air Jordan 1 Low,Basketball,Men,2022-02-09,2022,110,Black,Black/White,165,50,0,
+716,Air Jordan 4 Retro Black Cat (2020),Jordan,Air Jordan 4,Basketball,Men,2020-01-22,2020,190,Black,Black/Black/Black,570,200,0,
+717,Air Jordan 4 Retro Bred (2019),Jordan,Air Jordan 4,Basketball,Men,2019-05-04,2019,200,Black,Black/Cement Grey/Fire Red,500,150,0,
+718,Air Jordan 4 Retro Lightning (2021),Jordan,Air Jordan 4,Basketball,Men,2021-08-28,2021,220,Yellow,Tour Yellow/Dark Blue Grey,330,50,0,
+719,Air Jordan 4 Retro Military Black,Jordan,Air Jordan 4,Basketball,Men,2022-05-21,2022,210,White,White/Black/Neutral Grey,420,100,0,
+720,Air Jordan 4 Retro A Ma Maniere Violet Ore,Jordan,Air Jordan 4,Basketball,Women,2022-11-17,2022,225,Purple,Violet Ore/Medium Ash/Black,675,200,1,A Ma Maniere
+721,Air Jordan 5 Retro Off-White Black,Jordan,Air Jordan 5,Basketball,Men,2020-02-15,2020,225,Black,Black/Muslin/Fire Red,900,300,1,Off-White
+722,Air Jordan 6 Retro Travis Scott British Khaki,Jordan,Air Jordan 6,Basketball,Men,2021-04-30,2021,250,Brown,British Khaki/Sail/Bright Crimson,1000,300,1,Travis Scott
+723,Air Jordan 3 Retro A Ma Maniere Raised By Women,Jordan,Air Jordan 3,Basketball,Women,2021-04-28,2021,200,Cream,White/Medium Grey/Violet Ore,800,300,1,A Ma Maniere
+724,Nike Dunk Low Retro Kentucky (2020),Nike,Dunk Low,Skate,Men,2020-03-14,2020,100,Blue,White/Varsity Royal,250,150,0,
+725,Nike Dunk Low Retro Syracuse (2020),Nike,Dunk Low,Skate,Men,2020-03-14,2020,100,Orange,White/Orange Blaze,200,100,0,
+726,Nike Dunk Low SP Plum (2020),Nike,Dunk Low,Skate,Men,2020-02-07,2020,100,Purple,Daybreak/Barn/Plum,220,120,0,
+727,Nike Dunk Low Retro Champ Colors,Nike,Dunk Low,Skate,Men,2020-06-24,2020,100,Orange,University Orange/Marine,180,80,0,
+728,Nike Dunk Low SP St. John's (2020),Nike,Dunk Low,Skate,Men,2020-06-01,2020,100,Red,White/University Red,250,150,0,
+729,Nike Dunk Low SP Brazil (2020),Nike,Dunk Low,Skate,Men,2020-05-21,2020,100,Green,Varsity Maize/Pine Green,250,150,0,
+730,Nike Dunk Low Retro Championship Red,Nike,Dunk Low,Skate,Men,2021-07-22,2021,100,Red,University Red/White,150,50,0,
+731,Nike Air Force 1 '07 White (2015),Nike,Air Force 1,Lifestyle,Men,2015-01-01,2015,90,White,White/White,90,0,0,
+732,Nike Air Force 1 '07 Black (2015),Nike,Air Force 1,Lifestyle,Men,2015-01-01,2015,90,Black,Black/Black,67.5,-25,0,
+733,Nike Air Force 1 Low '07 LV8 UV,Nike,Air Force 1,Lifestyle,Men,2021-06-21,2021,110,White,White/UV Reactive,165,50,0,
+734,Nike Air Force 1 Low SNKRS Day (2021),Nike,Air Force 1,Lifestyle,Women,2021-08-08,2021,130,White,Sail/White/Multi,195,50,0,
+735,Nike Air Force 1 Low Valentines Day (2021),Nike,Air Force 1,Lifestyle,Women,2021-02-06,2021,130,White,White/University Red/Sail,97.5,-25,0,
+736,Nike Air Force 1 Low Para-noise G-Dragon (2020),Nike,Air Force 1,Lifestyle,Men,2020-11-25,2020,200,White,White/Black,600,200,1,G-Dragon
+737,Nike Air Zoom Pegasus 37 Black White,Nike,Air Zoom Pegasus 37,Running,Men,2020-04-30,2020,120,Black,Black/White,90,-25,0,
+738,Nike Air Zoom Pegasus 40 White Black,Nike,Air Zoom Pegasus 40,Running,Men,2023-04-01,2023,130,White,White/Black,97.5,-25,0,
+739,Nike ZoomX Invincible Run Flyknit 3 Sail Photon,Nike,ZoomX Invincible Run Flyknit 3,Running,Women,2023-02-02,2023,180,White,Sail/Photon Dust,270,50,0,
+740,Nike Vaporfly 3 Prototype,Nike,Vaporfly 3,Running,Men,2023-04-01,2023,250,White,Summit White/Phantom,375,50,0,
+741,adidas Ultraboost 1.0 DNA Miami,adidas,Ultraboost 1.0,Running,Men,2020-05-01,2020,180,White,Cloud White/Screaming Orange,270,50,0,
+742,adidas Ultraboost 1.0 Triple White (2020),adidas,Ultraboost 1.0,Running,Men,2020-06-01,2020,180,White,Cloud White/Cloud White,180,0,0,
+743,adidas NMD R1 OG (2017 Restock),adidas,NMD R1,Lifestyle,Men,2017-01-14,2017,130,Black,Core Black/Red/Blue/White,260,100,0,
+744,adidas NMD R1 Triple Black,adidas,NMD R1,Lifestyle,Men,2016-09-17,2016,130,Black,Core Black/Core Black,97.5,-25,0,
+745,adidas NMD Hu Pharrell Human Race Yellow,adidas,NMD Hu,Lifestyle,Men,2016-09-24,2016,240,Yellow,Bright Yellow/Core Black,960,300,1,Pharrell
+746,adidas NMD Hu Pharrell Trail Solar Pack Orange,adidas,NMD Hu,Lifestyle,Men,2018-08-18,2018,250,Orange,Orange/Blue/Yellow,625,150,1,Pharrell
+747,adidas Harden Vol. 7 Red Flare,adidas,Harden Vol. 7,Basketball,Men,2023-03-01,2023,160,Red,Team Solar Red/Cloud White,120,-25,0,
+748,adidas Dame 8 Black Gold,adidas,Dame 8,Basketball,Men,2021-12-19,2021,120,Black,Core Black/Gold Met,90,-25,0,
+749,adidas Trae Young 2 Dash Grey,adidas,Trae Young 2,Basketball,Men,2022-09-01,2022,140,Grey,Dash Grey/Grey Two,70,-50,0,
+750,adidas Crazy 1 Sunshine (2022),adidas,Crazy 1,Basketball,Men,2022-07-22,2022,140,Yellow,Sunshine/Black,210,50,0,
+751,New Balance Kawhi 1 Jolly Rancher,New Balance,Kawhi 1,Basketball,Men,2020-10-31,2020,160,Blue,Blue/Green/Red,160,0,1,Jolly Rancher
+752,New Balance Fresh Foam BB v1 Black Ice,New Balance,Fresh Foam BB,Basketball,Men,2023-02-03,2023,130,Black,Black/White,97.5,-25,0,
+753,New Balance Two Wxy v3 Pink Mint,New Balance,Two Wxy v3,Basketball,Men,2022-10-01,2022,130,Pink,Light Pink/Mint,65,-50,0,
+754,New Balance 991v2 Navy (Made in UK),New Balance,991v2,Lifestyle,Men,2023-11-03,2023,230,Blue,Navy/White,345,50,0,
+755,New Balance 1906R Nature Green Pack,New Balance,1906R,Running,Men,2023-08-01,2023,150,Green,Nature Green/White,225,50,0,
+756,New Balance Fresh Foam 1080v13 Marine Blue,New Balance,Fresh Foam 1080v13,Running,Men,2023-10-01,2023,165,Blue,Marine Blue/White,165,0,0,
+757,ASICS Novablast 3 Tokyo,ASICS,Novablast 3,Running,Men,2022-09-01,2022,140,Orange,Shocking Orange/Black,210,50,0,
+758,ASICS Novablast 3 Lite-Show,ASICS,Novablast 3,Running,Men,2022-10-01,2022,150,Black,Black/Reflective,112.5,-25,0,
+759,ASICS Gel-Cumulus 25 Black Pure Silver,ASICS,Gel-Cumulus 25,Running,Men,2023-04-01,2023,140,Black,Black/Pure Silver,105,-25,0,
+760,ASICS Superblast White Turquoise,ASICS,Superblast,Running,Men,2022-12-01,2022,220,White,White/Turquoise,330,50,0,
+761,Salomon Pulsar Trail Pro 2 Magnet,Salomon,Pulsar Trail Pro 2,Trail,Unisex,2022-07-01,2022,160,Grey,Magnet/Black,120,-25,0,
+762,Salomon Sense Ride 5 Blue,Salomon,Sense Ride 5,Trail,Unisex,2023-02-01,2023,140,Blue,Blue/Black,105,-25,0,
+763,Salomon Glide Max TR Blue Radiant Yellow,Salomon,Glide Max TR,Trail,Unisex,2023-02-01,2023,160,Blue,Blue/Radiant Yellow,240,50,0,
+764,Salomon XT-6 Mindful Pack,Salomon,XT-6,Trail,Unisex,2021-05-01,2021,200,Multi,White/Blue/Green,300,50,0,
+765,Hoka Stinson 7 Dazzling Blue,Hoka One One,Stinson 7,Trail,Men,2023-09-01,2023,170,Blue,Dazzling Blue/Mountain Spring,255,50,0,
+766,Hoka Torrent 3 Citrus Glow,Hoka One One,Torrent 3,Trail,Men,2023-07-01,2023,140,Yellow,Citrus Glow/Black,105,-25,0,
+767,Brooks Cascadia 17 Blue Orange,Brooks,Cascadia 17,Trail,Men,2023-07-01,2023,140,Blue,Blue/Orange,140,0,0,
+768,Brooks Caldera 6 Peacoat,Brooks,Caldera 6,Trail,Men,2022-06-01,2022,150,Blue,Peacoat/Orange,112.5,-25,0,
+769,Reebok Nano X3 Adventure 2 Core Black,Reebok,Nano X3 Adventure 2,Training,Men,2023-06-01,2023,150,Black,Core Black/Vector Red,112.5,-25,0,
+770,Reebok Legacy Lifter III Black,Reebok,Legacy Lifter III,Training,Men,2023-01-01,2023,220,Black,Core Black/Cold Grey,220,0,0,
+771,Nike Free Metcon 5 White Pink,Nike,Free Metcon 5,Training,Women,2023-02-15,2023,120,White,White/Pink,90,-25,0,
+772,Nike ZoomX Zegama Trail,Nike,ZoomX Zegama Trail,Trail,Men,2022-07-01,2022,160,Green,Olive Aura/Black,120,-25,0,
+773,Nike Air Zoom Alphafly NEXT Percent Nature,Nike,Air Zoom Alphafly NEXT%,Running,Men,2021-09-08,2021,275,Green,Barely Volt/Hyper Orange,412.5,50,0,
+774,Nike Air Zoom Tempo NEXT Percent FlyEase,Nike,Air Zoom Tempo NEXT%,Running,Men,2020-11-01,2020,200,Blue,Blue Void/White,150,-25,0,
+775,Nike React Infinity Run Flyknit 3 By You,Nike,React Infinity Run Flyknit 3,Running,Unisex,2022-05-01,2022,190,Multi,Multi-Color By You,190,0,0,
+776,Under Armour Curry Flow 9 Sesame Street Cookie Monster,Under Armour,Curry Flow 9,Basketball,Men,2021-12-17,2021,160,Blue,Blue/White,320,100,1,Sesame Street
+777,Under Armour Curry Flow 9 Sesame Street Big Bird,Under Armour,Curry Flow 9,Basketball,Men,2021-12-17,2021,160,Yellow,Yellow/Orange,320,100,1,Sesame Street
+778,Puma Slipstream Lo White Green,Puma,Slipstream Lo,Lifestyle,Men,2022-06-01,2022,90,White,White/Green,67.5,-25,0,
+779,Puma RS-X Efekt Turbo Blue,Puma,RS-X Efekt,Lifestyle,Men,2023-03-01,2023,120,Blue,Turquoise/Black,90,-25,0,
+780,Puma Deviate Nitro 2 Fireglow,Puma,Deviate Nitro 2,Running,Men,2022-08-01,2022,160,Orange,Fireglow/Black,240,50,0,
+781,Vans Kicker Pro Skate Shoe Black,Vans,Kicker Pro,Skate,Men,2023-04-01,2023,90,Black,Black/White,67.5,-25,0,
+782,Vans Half Cab Gore-Tex Black,Vans,Half Cab Gore-Tex,Skate,Men,2022-11-01,2022,110,Black,Black/Black,82.5,-25,0,
+783,Converse Chuck 70 AT-CX Utility Khaki,Converse,Chuck 70 AT-CX,Lifestyle,Men,2022-09-01,2022,120,Green,Utility Khaki/Egret,90,-25,0,
+784,Converse Run Star Motion CX High Black,Converse,Run Star Motion,Lifestyle,Women,2021-07-15,2021,120,Black,Black/White,180,50,0,
+785,Crocs Classic Mega Crush Clog Bone,Crocs,Mega Crush,Slides,Women,2023-03-01,2023,75,Cream,Bone/Bone,150,100,0,
+786,Crocs Echo Storm Clog Black,Crocs,Echo Storm,Slides,Men,2023-09-01,2023,80,Black,Black/Black,120,50,0,
+787,Crocs Echo Storm Clog Desert,Crocs,Echo Storm,Slides,Men,2023-09-01,2023,80,Tan,Desert/Desert,60,-25,0,
+788,New Balance Fresh Foam Roav v2 Black,New Balance,Fresh Foam Roav v2,Running,Men,2022-01-01,2022,85,Black,Black/White,63.75,-25,0,
+789,New Balance 410 Trail v7 Grey,New Balance,410 v7,Trail,Men,2021-04-01,2021,70,Grey,Grey/Black,52.5,-25,0,
+790,New Balance 5740 Sea Salt Pink,New Balance,5740,Lifestyle,Women,2021-02-01,2021,120,White,Sea Salt/Pink,90,-25,0,
+791,ASICS Gel-Venture 9 Black Graphite Grey,ASICS,Gel-Venture 9,Trail,Men,2023-08-01,2023,80,Black,Black/Graphite Grey,60,-25,0,
+792,ASICS Gel-Sonoma 7 GTX Black,ASICS,Gel-Sonoma 7 GTX,Trail,Men,2022-10-01,2022,110,Black,Black/Black,82.5,-25,0,
+793,Salomon Speedverse PRG White,Salomon,Speedverse PRG,Trail,Unisex,2022-06-01,2022,160,White,White/Black,120,-25,0,
+794,On Cloudvista Waterproof Black,On,Cloudvista Waterproof,Trail,Men,2022-10-01,2022,180,Black,Black/Eclipse,135,-25,0,
+795,On Cloudwander Waterproof Midnight Navy,On,Cloudwander Waterproof,Trail,Men,2022-09-01,2022,180,Blue,Midnight Navy,135,-25,0,
+796,Brooks Divide 4 Grey Blue,Brooks,Divide 4,Trail,Men,2023-02-01,2023,110,Grey,Grey/Blue,82.5,-25,0,
+797,Saucony Peregrine 13 Black Vizi,Saucony,Peregrine 13,Trail,Men,2023-02-01,2023,140,Black,Black/Vizi,105,-25,0,
+798,Saucony Triumph 20 RFG Earth,Saucony,Triumph 20,Running,Men,2022-09-01,2022,160,Brown,Earth/Brown,120,-25,0,
+799,Saucony Kinvara 14 Night Lite,Saucony,Kinvara 14,Running,Men,2023-03-01,2023,120,Yellow,Night Lite/Black,90,-25,0,
+800,Mizuno Wave Rider 27 White Illusion Blue,Mizuno,Wave Rider 27,Running,Men,2023-06-01,2023,140,White,White/Illusion Blue,105,-25,0,
+801,Air Jordan 1 Retro High OG Origin Story,Jordan,Air Jordan 1,Basketball,Men,2018-12-14,2018,160,Red,Gym Red/White/Photo Blue,400,150,1,Marvel
+802,Air Jordan 1 Retro High OG Rookie of the Year,Jordan,Air Jordan 1,Basketball,Men,2018-11-17,2018,160,Brown,Golden Harvest/Black/Sail,320,100,0,
+803,Air Jordan 1 Retro High OG Bloodline,Jordan,Air Jordan 1,Basketball,Men,2019-11-29,2019,160,Red,Black/Gym Red/White,240,50,0,
+804,Air Jordan 1 Retro High OG Pollen,Jordan,Air Jordan 1,Basketball,Men,2021-08-14,2021,170,Yellow,Pollen/Black/White,255,50,0,
+805,Air Jordan 1 Retro High OG Volt Gold,Jordan,Air Jordan 1,Basketball,Men,2021-01-09,2021,170,Yellow,White/Sail/Volt/University Gold,127.5,-25,0,
+806,Air Jordan 1 Retro High OG Bordeaux,Jordan,Air Jordan 1,Basketball,Men,2021-11-20,2021,170,Burgundy,Bordeaux/White/Metallic Silver,127.5,-25,0,
+807,Air Jordan 1 Retro High OG Stealth,Jordan,Air Jordan 1,Basketball,Men,2022-08-30,2022,180,Grey,Stealth/White,135,-25,0,
+808,Air Jordan 1 Retro High OG Gorge Green,Jordan,Air Jordan 1,Basketball,Men,2022-12-28,2022,180,Green,Gorge Green/White/Metallic Silver,135,-25,0,
+809,Air Jordan 1 Retro High OG Washed Pink,Jordan,Air Jordan 1,Basketball,Women,2023-04-22,2023,180,Pink,Atmosphere/White/Muslin,270,50,0,
+810,Air Jordan 1 Retro High OG Washed Black,Jordan,Air Jordan 1,Basketball,Men,2023-06-10,2023,180,Grey,Black/Smoke Grey/Sail,135,-25,0,
+811,Air Jordan 4 Retro Thunder (2023),Jordan,Air Jordan 4,Basketball,Men,2023-05-13,2023,210,Black,Black/Tour Yellow,315,50,0,
+812,Air Jordan 4 Retro Seafoam (Women),Jordan,Air Jordan 4,Basketball,Women,2023-02-09,2023,200,Green,White/Seafoam,150,-25,0,
+813,Air Jordan 4 Retro Infrared (2022),Jordan,Air Jordan 4,Basketball,Men,2022-06-15,2022,200,Grey,Dark Grey/Infrared 23/Black,150,-25,0,
+814,Air Jordan 4 Retro University Blue,Jordan,Air Jordan 4,Basketball,Men,2021-04-28,2021,200,Blue,University Blue/Tech Grey/Black,400,100,0,
+815,Air Jordan 5 Retro What The,Jordan,Air Jordan 5,Basketball,Men,2020-11-12,2020,220,Yellow,Varsity Maize/Court Purple,330,50,0,
+816,Air Jordan 7 Retro Flint (2021),Jordan,Air Jordan 7,Basketball,Men,2021-05-08,2021,190,Grey,White/Varsity Purple/Flint Grey,95,-50,0,
+817,Air Jordan 12 Retro Stealth,Jordan,Air Jordan 12,Basketball,Men,2022-08-27,2022,200,Grey,Stealth/White/Cool Grey,150,-25,0,
+818,Air Jordan 13 Retro Red Flint,Jordan,Air Jordan 13,Basketball,Men,2021-05-01,2021,190,Red,Gym Red/Flint Grey/White,285,50,0,
+819,Air Jordan 14 Retro Candy Cane (2019),Jordan,Air Jordan 14,Basketball,Men,2019-04-06,2019,190,White,White/Varsity Red,285,50,0,
+820,Air Jordan 6 Retro Midnight Navy (2022),Jordan,Air Jordan 6,Basketball,Men,2022-05-11,2022,200,Blue,White/Midnight Navy,150,-25,0,
+821,Nike Dunk Low Green Glow (Women),Nike,Dunk Low,Skate,Women,2021-04-16,2021,100,Green,White/Green Glow,150,50,0,
+822,Nike Dunk Low Photon Dust (Women),Nike,Dunk Low,Skate,Women,2021-05-19,2021,100,Grey,Photon Dust/Summit White,75,-25,0,
+823,Nike Dunk Low Orange Pearl (Women),Nike,Dunk Low,Skate,Women,2021-02-11,2021,100,Pink,Orange Pearl/Sail,200,100,0,
+824,Nike Dunk Low Next Nature Sail Light Orewood,Nike,Dunk Low Next Nature,Skate,Women,2021-11-16,2021,105,White,Sail/Light Orewood Brown,78.75,-25,0,
+825,Nike Dunk Low Retro White Black Panda,Nike,Dunk Low,Skate,Men,2021-03-10,2021,100,Black,White/Black,150,50,0,
+826,Nike Dunk Low Retro White University Red,Nike,Dunk Low,Skate,Men,2022-07-21,2022,110,Red,White/University Red,82.5,-25,0,
+827,Nike Dunk Low Retro Valerian Blue,Nike,Dunk Low,Skate,Men,2022-05-01,2022,110,Blue,Valerian Blue/White,165,50,0,
+828,Nike Dunk Low Retro Argon (2022),Nike,Dunk Low,Skate,Men,2022-09-23,2022,130,Blue,Flash/Argon Blue,260,100,0,
+829,Nike Dunk Low Retro QS LeBron James Fruity Pebbles,Nike,Dunk Low,Skate,Men,2022-11-08,2022,120,Blue,Habanero Red/White/Blue Lightning,180,50,1,LeBron James
+830,Nike Dunk Low SE Lottery Pack Grey Fog,Nike,Dunk Low,Skate,Men,2022-08-31,2022,120,Grey,Grey Fog/Light Crimson,60,-50,0,
+831,Nike Air Max 90 Infrared (2020),Nike,Air Max 90,Running,Men,2020-11-09,2020,140,Red,Infrared/White/Grey,210,50,0,
+832,Nike Air Max 90 Duck Camo Green,Nike,Air Max 90,Running,Men,2020-03-26,2020,140,Green,Ghost Green/Black/Camo,210,50,0,
+833,Nike Air Max 95 Neon (2020),Nike,Air Max 95,Running,Men,2020-12-17,2020,170,Green,Black/Neon Yellow/Grey,255,50,0,
+834,Nike Air Max 97 Silver Bullet (2017),Nike,Air Max 97,Running,Men,2017-04-13,2017,160,Silver,Metallic Silver/Varsity Red,320,100,0,
+835,Nike Air Max 97 Puerto Rico (2021),Nike,Air Max 97,Running,Men,2021-06-05,2021,175,Grey,Metallic Silver/Varsity Red/Green,131.25,-25,0,
+836,Nike Air Max 270 React Bauhaus,Nike,Air Max 270 React,Running,Men,2019-07-18,2019,150,Multi,White/University Red/Blue,225,50,0,
+837,Nike Air Max 270 Triple Black,Nike,Air Max 270,Running,Men,2018-02-01,2018,150,Black,Black/Black,112.5,-25,0,
+838,Nike Air Max 2090 Duck Camo,Nike,Air Max 2090,Running,Men,2020-03-26,2020,150,Red,Red/Black/Camo,225,50,0,
+839,Nike Air Max Plus Hyper Crimson,Nike,Air Max Plus,Running,Men,2019-10-01,2019,170,Orange,Black/Hyper Crimson,127.5,-25,0,
+840,Nike Air Max Plus Black Metallic Gold,Nike,Air Max Plus,Running,Men,2018-10-01,2018,170,Black,Black/Metallic Gold,255,50,0,
+841,adidas Ultraboost 20 Space Race Silver Metallic,adidas,Ultraboost 20,Running,Men,2019-12-05,2019,180,Silver,Silver Metallic/Core Black,135,-25,0,
+842,adidas Ultraboost DNA City Pack Tokyo,adidas,Ultraboost DNA,Running,Men,2020-02-01,2020,180,White,Cloud White/Solar Red,270,50,0,
+843,adidas Ultraboost 21 Core Black,adidas,Ultraboost 21,Running,Men,2021-02-04,2021,180,Black,Core Black/Core Black,135,-25,0,
+844,adidas Ultraboost 22 Magic Mauve,adidas,Ultraboost 22,Running,Women,2021-12-09,2021,190,Pink,Magic Mauve/Silver,142.5,-25,0,
+845,adidas NMD R1 Japan Triple Black,adidas,NMD R1,Lifestyle,Men,2016-09-17,2016,170,Black,Core Black/Core Black,340,100,0,
+846,adidas NMD R1 Primeknit Tri Color,adidas,NMD R1,Lifestyle,Men,2017-01-14,2017,170,Black,Core Black/Red/Blue,255,50,0,
+847,adidas Superstar White Black (2020),adidas,Superstar,Lifestyle,Men,2020-01-01,2020,85,White,Cloud White/Core Black,63.75,-25,0,
+848,adidas Superstar Sean Wotherspoon Superearth White,adidas,Superstar,Lifestyle,Men,2020-09-28,2020,110,White,Footwear White/Bold Blue,330,200,1,Sean Wotherspoon
+849,adidas Campus 80s South Park Towelie,adidas,Campus 80s,Lifestyle,Men,2021-04-20,2021,100,Purple,Towelie Purple/Footwear White,300,200,1,South Park
+850,adidas Forum Low White Blue (2021),adidas,Forum Low,Lifestyle,Men,2021-04-01,2021,90,Blue,Cloud White/Dark Blue,67.5,-25,0,
+851,Yeezy Boost 350 Pirate Black (2015),Yeezy,Yeezy Boost 350,Lifestyle,Men,2015-08-22,2015,200,Black,Black/Black,800,300,0,
+852,Yeezy Boost 350 Turtle Dove (2022 Restock),Yeezy,Yeezy Boost 350,Lifestyle,Men,2022-08-02,2022,200,Grey,Blue Grey/White,600,200,0,
+853,Yeezy Boost 350 V2 Beluga 2.0,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2017-11-25,2017,220,Grey,Grey/Bold Orange,440,100,0,
+854,Yeezy Boost 350 V2 Zebra,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2017-02-25,2017,220,White,White/Core Black/Red,660,200,0,
+855,Yeezy Boost 700 Mauve,Yeezy,Yeezy Boost 700,Lifestyle,Men,2018-10-27,2018,300,Brown,Mauve/Mauve,450,50,0,
+856,Yeezy Boost 700 V2 Static,Yeezy,Yeezy Boost 700 V2,Lifestyle,Men,2018-12-29,2018,300,Grey,Static/Static,600,100,0,
+857,Yeezy Boost 380 Onyx,Yeezy,Yeezy Boost 380,Lifestyle,Men,2020-11-27,2020,230,Black,Onyx/Onyx,172.5,-25,0,
+858,Yeezy QNTM Quantum,Yeezy,Yeezy QNTM,Basketball,Men,2020-02-16,2020,250,Grey,Quantum/Quantum,375,50,0,
+859,Yeezy Slide Bone (2022 Restock),Yeezy,Yeezy Slide,Slides,Men,2022-05-16,2022,70,Cream,Bone/Bone,140,100,0,
+860,Yeezy Foam RNNR Vermilion,Yeezy,Foam RNNR,Slides,Men,2021-10-29,2021,80,Red,Vermilion/Vermilion,320,300,0,
+861,New Balance 990v3 Kith Genesis,New Balance,990v3,Lifestyle,Men,2022-04-28,2022,220,Grey,Grey/Blue/Green,660,200,1,Kith
+862,New Balance 990v3 Bodega Here To Stay,New Balance,990v3,Lifestyle,Men,2021-06-25,2021,220,Brown,Beige/Brown/Yellow,440,100,1,Bodega
+863,New Balance 992 Joe Freshgoods No Emotions,New Balance,992,Lifestyle,Men,2020-02-14,2020,200,Pink,No Emotions Are Emotions,800,300,1,Joe Freshgoods
+864,New Balance 2002R Salehe Bembury Water Be The Guide,New Balance,2002R,Lifestyle,Men,2021-06-25,2021,150,Green,Aqua/Orange,450,200,1,Salehe Bembury
+865,New Balance 2002R BAPE Grey Camo,New Balance,2002R,Lifestyle,Men,2021-08-21,2021,250,Grey,Grey Camo/Green,750,200,1,BAPE
+866,New Balance 574 YURT Salehe Bembury Shark Skin,New Balance,574 Yurt,Lifestyle,Men,2021-10-22,2021,150,Grey,Shark Skin/Yellow,450,200,1,Salehe Bembury
+867,New Balance 650R Aime Leon Dore White Green,New Balance,650R,Basketball,Men,2021-04-16,2021,165,Green,White/Green,495,200,1,Aime Leon Dore
+868,New Balance 550 Aime Leon Dore White Green,New Balance,550,Basketball,Men,2020-10-09,2020,130,Green,White/Green,390,200,1,Aime Leon Dore
+869,New Balance 550 White Grey,New Balance,550,Basketball,Men,2021-06-24,2021,110,Grey,White/Grey,165,50,0,
+870,New Balance 530 White Green,New Balance,530,Running,Men,2020-06-01,2020,100,Green,White/Green,75,-25,0,
+871,ASICS Gel-Kayano 5 OG White Blue,ASICS,Gel-Kayano 5,Running,Men,2019-02-01,2019,150,White,White/Blue,225,50,0,
+872,ASICS Gel-Lyte III OG Dragon Fruit,ASICS,Gel-Lyte III,Running,Men,2020-07-01,2020,120,Pink,Dragon Fruit/Pink,90,-25,0,
+873,ASICS Gel-Lyte III Ronnie Fieg Super Blue,ASICS,Gel-Lyte III,Lifestyle,Men,2015-06-27,2015,180,Blue,Super Blue/White,540,200,1,Ronnie Fieg
+874,ASICS Gel-Lyte III Patta Shogun,ASICS,Gel-Lyte III,Lifestyle,Men,2020-08-01,2020,180,Black,Black/Purple,540,200,1,Patta
+875,ASICS Gel-Saga Kill Bill,ASICS,Gel-Saga,Lifestyle,Men,2018-10-11,2018,130,Yellow,Bright Yellow/Black,260,100,1,Kill Bill
+876,ASICS Gel-1090 Reconstructed Kiko,ASICS,Gel-1090,Lifestyle,Men,2020-02-01,2020,130,White,White/Silver,195,50,1,Kiko Kostadinov
+877,Salomon XT-4 Advanced Black White,Salomon,XT-4,Trail,Unisex,2020-03-01,2020,190,Black,Black/White,285,50,0,
+878,Salomon XT-6 Advanced White Solar Red,Salomon,XT-6,Trail,Unisex,2020-03-01,2020,190,White,White/Solar Red,285,50,0,
+879,Salomon XT-6 Palace Black,Salomon,XT-6,Lifestyle,Unisex,2021-09-10,2021,200,Black,Black/Green,600,200,1,Palace
+880,Salomon XA Alpine Mid Advanced Black,Salomon,XA Alpine Mid,Trail,Unisex,2018-10-01,2018,220,Black,Black/Black,165,-25,0,
+881,Hoka Clifton Edge White Citrus,Hoka One One,Clifton Edge,Running,Men,2020-07-01,2020,160,White,White/Citrus,120,-25,0,
+882,Hoka Carbon X 2 Vapor Blue,Hoka One One,Carbon X 2,Running,Men,2021-01-01,2021,180,Blue,Vapor Blue/Fiesta,270,50,0,
+883,Hoka Cavu 3 Radiant Yellow,Hoka One One,Cavu 3,Running,Men,2019-06-01,2019,140,Yellow,Radiant Yellow/Black,70,-50,0,
+884,Hoka Arahi 6 Orange Green,Hoka One One,Arahi 6,Running,Men,2022-01-01,2022,140,Orange,Orange/Green,105,-25,0,
+885,Brooks Levitate 5 Black Gold,Brooks,Levitate 5,Running,Men,2021-08-01,2021,150,Black,Black/Gold,112.5,-25,0,
+886,Brooks Launch 9 Nightlife,Brooks,Launch 9,Running,Men,2022-02-01,2022,110,Yellow,Nightlife/Black,82.5,-25,0,
+887,Reebok Question Low Oatmeal,Reebok,Question Low,Basketball,Men,2019-03-07,2019,120,Cream,White/Oatmeal,180,50,0,
+888,Reebok Pump Omni Zone II Dee Brown,Reebok,Pump Omni Zone II,Basketball,Men,2021-03-05,2021,150,Black,Black/Orange,225,50,0,
+889,Under Armour Spawn 3 Neon Green,Under Armour,Spawn 3,Basketball,Men,2020-08-01,2020,110,Green,Neon Green/Black,82.5,-25,0,
+890,Under Armour Curry 2 Retro Iron Sharpens,Under Armour,Curry 2 Retro,Basketball,Men,2022-11-11,2022,150,White,White/Gold,225,50,0,
+891,Vans Old Skool Yacht Club,Vans,Old Skool,Skate,Unisex,2018-04-01,2018,65,Multi,Blue/Yellow/Green/Red,97.5,50,0,
+892,Vans Sk8 Hi Checkboard Flame,Vans,Sk8 Hi,Skate,Unisex,2019-06-01,2019,70,Black,Black/Flame,52.5,-25,0,
+893,Converse Chuck Taylor All Star Lugged Black,Converse,Chuck Taylor Lugged,Lifestyle,Women,2019-09-01,2019,80,Black,Black/White,60,-25,0,
+894,Converse Run Star Hike Hi White Gum,Converse,Run Star Hike,Lifestyle,Women,2019-11-01,2019,110,White,White/Black/Gum,165,50,0,
+895,Crocs Classic Clog Post Malone 3,Crocs,Classic Clog,Slides,Men,2019-12-10,2019,60,Yellow,Yellow/Black,300,400,1,Post Malone
+896,Crocs Classic Clog Diplo Take A Walk On The Weird Side,Crocs,Classic Clog,Slides,Men,2021-06-08,2021,70,Multi,Multi Color Tie Dye,210,200,1,Diplo
+897,Crocs Classic Crush Clog Bone,Crocs,Classic Crush,Slides,Women,2022-03-01,2022,70,Cream,Bone/Bone,105,50,0,
+898,Saucony Endorphin Speed 3 Royal Blue,Saucony,Endorphin Speed 3,Running,Men,2022-07-01,2022,170,Blue,Royal Blue/White,127.5,-25,0,
+899,Mizuno Wave Sky 6 Nimbus Cloud,Mizuno,Wave Sky 6,Running,Men,2022-06-01,2022,170,Grey,Nimbus Cloud/Grey,127.5,-25,0,
+900,On Cloudboom Echo White Frost,On,Cloudboom Echo,Running,Men,2020-07-01,2020,270,White,White/Frost,405,50,0,
+901,Air Jordan 1 Retro High OG Royal Toe,Jordan,Air Jordan 1,Basketball,Men,2020-05-09,2020,170,Blue,Black/White/Game Royal,255,50,0,
+902,Air Jordan 1 Retro High OG Twist Panda (Women),Jordan,Air Jordan 1,Basketball,Women,2023-12-22,2023,180,White,White/Black,135,-25,0,
+903,Air Jordan 1 Retro High OG Craft Vibrations of Naija,Jordan,Air Jordan 1,Basketball,Men,2023-05-27,2023,180,Cream,Sail/Pale Vanilla,135,-25,0,
+904,Air Jordan 1 Retro High OG Top 3,Jordan,Air Jordan 1,Basketball,Men,2016-11-28,2016,160,Multi,Black/Varsity Red/Royal,480,200,0,
+905,Air Jordan 1 Retro High OG University Blue,Jordan,Air Jordan 1,Basketball,Men,2021-03-06,2021,170,Blue,White/University Blue/Black,425,150,0,
+906,Air Jordan 1 Retro High OG Rebellionaire,Jordan,Air Jordan 1,Basketball,Men,2022-03-18,2022,170,Grey,Black/Particle Grey/White,340,100,0,
+907,Air Jordan 1 Retro High OG Taxi,Jordan,Air Jordan 1,Basketball,Men,2022-09-24,2022,180,Yellow,Taxi/Black/Sail,225,25,0,
+908,Air Jordan 4 Retro SB Pine Green,Jordan,Air Jordan 4,Skate,Men,2023-03-17,2023,225,Green,Sail/Pine Green/White,675,200,1,Nike SB
+909,Air Jordan 4 Retro Oreo (2015),Jordan,Air Jordan 4,Basketball,Men,2015-02-21,2015,190,Black,Black/Tech Grey,380,100,0,
+910,Air Jordan 4 Retro Fire Red (2020),Jordan,Air Jordan 4,Basketball,Men,2020-11-28,2020,200,Red,White/Fire Red/Black,300,50,0,
+911,Air Jordan 5 Retro Off-White Sail,Jordan,Air Jordan 5,Basketball,Men,2020-10-29,2020,225,Cream,Sail/Fire Red/Black,900,300,1,Off-White
+912,Air Jordan 5 Retro UNC University Blue,Jordan,Air Jordan 5,Basketball,Men,2023-03-04,2023,225,Blue,University Blue/White,337.5,50,0,
+913,Air Jordan 6 Retro Carmine (2021),Jordan,Air Jordan 6,Basketball,Men,2021-02-13,2021,200,Red,White/Black/Carmine,300,50,0,
+914,Air Jordan 7 Retro Cardinal (2022),Jordan,Air Jordan 7,Basketball,Men,2022-12-17,2022,210,White,White/Black/Cardinal Red,157.5,-25,0,
+915,Air Jordan 11 Retro Concord (2018),Jordan,Air Jordan 11,Basketball,Men,2018-12-08,2018,220,White,White/Black/Dark Concord,550,150,0,
+916,Air Jordan 11 Retro Bred (2019),Jordan,Air Jordan 11,Basketball,Men,2019-12-14,2019,220,Black,Black/Varsity Red/White,440,100,0,
+917,Nike Dunk Low Travis Scott Cactus Jack,Nike,Dunk Low,Skate,Men,2019-12-13,2019,150,Brown,Black/Parachute Beige,900,500,1,Travis Scott
+918,Nike SB Dunk Low Ben & Jerry's Chunky Dunky,Nike,Dunk Low,Skate,Men,2020-05-26,2020,100,Multi,Blue Sky/Green/Yellow,1500,1400,1,Ben & Jerry's
+919,Nike SB Dunk Low Grateful Dead Bears Green,Nike,Dunk Low,Skate,Men,2020-07-24,2020,110,Green,Green Spark/Soar,1100,900,1,Grateful Dead
+920,Nike SB Dunk Low Paris (2003 Retro Price Anchor),Nike,Dunk Low,Skate,Men,2003-03-01,2003,65,Multi,White/Red/Yellow/Blue,5200,7900,1,Bernard Buffet
+921,Nike Dunk Low Off-White Pine Green,Nike,Dunk Low,Skate,Men,2019-12-20,2019,170,Green,Pine Green/White,680,300,1,Off-White
+922,Nike Dunk Low Off-White University Red,Nike,Dunk Low,Skate,Men,2019-12-20,2019,170,Red,University Red/Wolf Grey,510,200,1,Off-White
+923,Nike Dunk Low Off-White Michigan,Nike,Dunk Low,Skate,Men,2019-12-20,2019,170,Yellow,Varsity Maize/Midnight Navy,510,200,1,Off-White
+924,Nike Air Force 1 Low Off-White MCA University Blue,Nike,Air Force 1,Lifestyle,Men,2019-06-20,2019,150,Blue,University Blue/Metallic Silver,1800,1100,1,Off-White
+925,Nike Air Force 1 Low Off-White Black White,Nike,Air Force 1,Lifestyle,Men,2018-12-19,2018,170,Black,Black/White,680,300,1,Off-White
+926,Nike Air Force 1 Low Off-White Volt,Nike,Air Force 1,Lifestyle,Men,2018-12-19,2018,170,Yellow,Volt/Black,680,300,1,Off-White
+927,Nike Air Max 1/97 Sean Wotherspoon,Nike,Air Max 1/97,Lifestyle,Men,2018-03-26,2018,160,Multi,Light Blue/Lemon Wash,800,400,1,Sean Wotherspoon
+928,Nike Air Max 90 OFF-WHITE Sail,Nike,Air Max 90,Running,Men,2018-02-10,2018,160,Cream,Sail/Ice Blue,640,300,1,Off-White
+929,Nike Blazer Mid Off-White All Hallows Eve,Nike,Blazer Mid,Lifestyle,Men,2018-10-01,2018,130,Orange,Canvas/Pale Vanilla,520,300,1,Off-White
+930,Nike Zoom Fly Off-White Tulip Pink,Nike,Zoom Fly,Running,Women,2018-10-13,2018,170,Pink,Tulip Pink/Racer Pink,510,200,1,Off-White
+931,adidas Yeezy Boost 350 V2 Black Red,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2016-11-23,2016,220,Black,Core Black/Red,660,200,0,
+932,adidas Yeezy Boost 350 V2 Blue Tint,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2017-12-16,2017,220,Blue,Blue Tint/Grey/Red,440,100,0,
+933,adidas Yeezy Boost 350 V2 Cream White,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2017-04-29,2017,220,White,Cream White/Cream White,440,100,0,
+934,adidas Yeezy Boost 350 V2 Static Non-Reflective,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2018-12-27,2018,220,Grey,Static/Static,440,100,0,
+935,adidas Yeezy Boost 350 V2 Cinder,Yeezy,Yeezy Boost 350 V2,Lifestyle,Men,2020-03-21,2020,220,Brown,Cinder/Cinder,264,20,0,
+936,adidas Yeezy Boost 700 Sun,Yeezy,Yeezy Boost 700,Lifestyle,Men,2021-01-23,2021,240,Yellow,Sun/Black,360,50,0,
+937,adidas Yeezy Slide Onyx,Yeezy,Yeezy Slide,Slides,Men,2022-03-07,2022,70,Black,Onyx/Onyx,175,150,0,
+938,adidas Yeezy Slide Glow Green,Yeezy,Yeezy Slide,Slides,Men,2021-08-02,2021,60,Green,Glow Green/Glow Green,150,150,0,
+939,adidas Yeezy Foam RNNR Sand,Yeezy,Foam RNNR,Slides,Men,2020-06-26,2020,75,Tan,Sand/Sand,225,200,0,
+940,adidas Yeezy Foam RNNR Onyx,Yeezy,Foam RNNR,Slides,Men,2022-06-08,2022,80,Black,Onyx/Onyx,240,200,0,
+941,New Balance 997S Bodega No Days Off,New Balance,997S,Lifestyle,Men,2019-04-05,2019,160,Grey,Grey/Yellow/Red,480,200,1,Bodega
+942,New Balance 997S Bodega No Bad Days,New Balance,997S,Lifestyle,Men,2019-09-27,2019,160,Blue,Blue/Yellow/Red,480,200,1,Bodega
+943,New Balance 990v2 Kith Cyclades,New Balance,990v2,Lifestyle,Men,2021-06-05,2021,210,Orange,Orange/Tan,630,200,1,Kith
+944,New Balance 990v2 Kith Sand Drift,New Balance,990v2,Lifestyle,Men,2021-06-05,2021,210,Brown,Sand Drift/Brown,630,200,1,Kith
+945,New Balance 2002R Protection Pack Sea Salt,New Balance,2002R,Lifestyle,Men,2021-08-14,2021,150,White,Sea Salt,450,200,0,
+946,New Balance 9060 Joe Freshgoods Inside Voices Penny Cookie Pink,New Balance,9060,Lifestyle,Men,2022-05-20,2022,180,Pink,Pink/Cream,540,200,1,Joe Freshgoods
+947,New Balance 9060 Joe Freshgoods Inside Voices Baby Shower Blue,New Balance,9060,Lifestyle,Men,2022-05-20,2022,180,Blue,Baby Blue/Cream,540,200,1,Joe Freshgoods
+948,ASICS Gel-Kayano 14 JJJJound Silver White,ASICS,Gel-Kayano 14,Running,Men,2023-08-04,2023,180,Silver,Silver/White,540,200,1,JJJJound
+949,ASICS Gel-Kayano 14 JJJJound Silver Black,ASICS,Gel-Kayano 14,Running,Men,2022-08-26,2022,180,Silver,Silver/Black,540,200,1,JJJJound
+950,ASICS Gel-Lyte III Nice Kicks Nice Cream,ASICS,Gel-Lyte III,Lifestyle,Men,2021-06-25,2021,150,Cream,Cream/Orange,300,100,1,Nice Kicks
+951,ASICS Gel-Lyte III Sean Wotherspoon Atmos Corduroy,ASICS,Gel-Lyte III,Lifestyle,Men,2020-08-14,2020,140,Multi,Multi-Color Corduroy,420,200,1,Sean Wotherspoon
+952,Salomon XT-6 Kith Gelato Prism Violet,Salomon,XT-6,Lifestyle,Unisex,2022-07-29,2022,200,Purple,Prism Violet/White,400,100,1,Kith
+953,Salomon XT-6 Kith Gelato Lime Green,Salomon,XT-6,Lifestyle,Unisex,2022-07-29,2022,200,Green,Lime Green/White,400,100,1,Kith
+954,Salomon XT-6 Hidden NY Green,Salomon,XT-6,Lifestyle,Unisex,2023-09-01,2023,220,Green,Green/White,440,100,1,Hidden NY
+955,Hoka Clifton 9 GORE-TEX Black,Hoka One One,Clifton 9 GTX,Running,Men,2023-10-01,2023,180,Black,Black/Black,135,-25,0,
+956,Hoka Mafate Speed 2 Engineered Garments Brown,Hoka One One,Mafate Speed 2,Lifestyle,Men,2019-10-01,2019,180,Brown,Brown/Yellow,360,100,1,Engineered Garments
+957,Brooks Ghost 15 Run Lucky Edition,Brooks,Ghost 15,Running,Men,2023-03-01,2023,140,Green,Green/Gold,105,-25,0,
+958,Saucony Jazz 81 END Shadow,Saucony,Jazz 81,Lifestyle,Men,2021-10-01,2021,120,Grey,Grey/Green,240,100,1,END.
+959,Puma Suede XL The Weeknd XO,Puma,Suede XL,Lifestyle,Men,2017-11-01,2017,130,Black,Black/White,260,100,1,The Weeknd
+960,Puma RS-X³ Puzzle Castlerock,Puma,RS-X³,Lifestyle,Men,2019-06-01,2019,110,Grey,Castlerock/White/Red,82.5,-25,0,
+961,Vans Authentic Fear of God Black White,Vans,Authentic,Lifestyle,Men,2016-12-01,2016,100,Black,Black/White Script,500,400,1,Fear of God
+962,Vans Era Fear of God Off-White,Vans,Era,Lifestyle,Men,2016-12-01,2016,100,Cream,Off-White/Black Script,400,300,1,Fear of God
+963,Converse Chuck 70 Hi Off-White Black,Converse,Chuck 70,Lifestyle,Men,2018-10-08,2018,130,Black,Black/White/Orange,520,300,1,Off-White
+964,Converse Chuck 70 Hi Off-White White,Converse,Chuck 70,Lifestyle,Men,2018-10-08,2018,130,White,White/Black/Orange,520,300,1,Off-White
+965,Converse Chuck 70 Hi Golf Wang Flame Blue,Converse,Chuck 70,Lifestyle,Men,2017-10-26,2017,100,Blue,Blue/Flame,200,100,1,Golf Wang
+966,Converse Chuck 70 Hi Golf le Fleur Chenille Flames,Converse,Chuck 70,Lifestyle,Men,2019-10-01,2019,110,Yellow,Yellow/Red,220,100,1,Golf Wang
+967,Crocs Classic Clog Salehe Bembury Cucumber,Crocs,Pollex Clog,Slides,Men,2021-12-14,2021,85,Green,Cucumber/Green,340,300,1,Salehe Bembury
+968,Crocs Classic Clog Bad Bunny Blue,adidas,Crocs Classic Clog,Slides,Men,2021-04-01,2021,70,Blue,Blue/Blue,210,200,1,Bad Bunny
+969,Nike Dunk Low Union Passport Pack Pistachio,Nike,Dunk Low,Skate,Men,2022-02-11,2022,150,Green,Pistachio/Black,450,200,1,Union
+970,Nike Dunk Low Union Passport Pack Argon,Nike,Dunk Low,Skate,Men,2022-03-31,2022,150,Blue,Argon/Blue,450,200,1,Union
+971,Nike Dunk Low Union Court Purple,Nike,Dunk Low,Skate,Men,2022-05-26,2022,150,Purple,Court Purple/Black,300,100,1,Union
+972,Nike SB Dunk Low Travis Scott,Nike,Dunk Low,Skate,Men,2020-02-29,2020,150,Brown,Black/Parachute Beige,900,500,1,Travis Scott
+973,Nike SB Dunk Low Concepts Green Lobster,Nike,Dunk Low,Skate,Men,2018-12-28,2018,100,Green,Green Stone/Volt,700,600,1,Concepts
+974,Nike SB Dunk Low Concepts Purple Lobster,Nike,Dunk Low,Skate,Men,2018-12-14,2018,100,Purple,Voltage Purple/Voltage Purple,700,600,1,Concepts
+975,Nike SB Dunk Low Concepts Orange Lobster,Nike,Dunk Low,Skate,Men,2022-12-02,2022,120,Orange,Orange Frost/Electro Orange,720,500,1,Concepts
+976,Nike SB Dunk Low Staple Pigeon Panda,Nike,Dunk Low,Skate,Men,2022-11-01,2022,120,Black,Black/White/Grey,360,200,1,Staple
+977,Air Jordan 1 High Zoom CMFT 2 Year of the Rabbit,Jordan,Air Jordan 1 Zoom CMFT 2,Basketball,Men,2023-01-22,2023,180,Brown,Sail/Brown,270,50,0,
+978,Air Jordan 1 Mid SE Wear-Away Black Yellow,Jordan,Air Jordan 1 Mid,Basketball,Men,2022-10-01,2022,135,Yellow,Black/Yellow/Sail,101.25,-25,0,
+979,Air Jordan 1 Low SE Year of the Dragon,Jordan,Air Jordan 1 Low,Basketball,Men,2024-01-24,2024,140,Green,Sail/Green/Gold,210,50,0,
+980,Air Jordan 1 Low OG Black Toe (2023),Jordan,Air Jordan 1 Low,Basketball,Men,2023-08-04,2023,140,Red,White/Black/Varsity Red,210,50,0,
+981,Nike Zoom Vomero 5 Vast Grey,Nike,Zoom Vomero 5,Running,Men,2023-10-01,2023,160,Grey,Vast Grey/Photon Dust,240,50,0,
+982,Nike Zoom Vomero 5 Doernbecher,Nike,Zoom Vomero 5,Running,Men,2023-12-02,2023,190,Black,Black/Volt,285,50,1,Doernbecher
+983,Nike P-6000 Metallic Silver,Nike,P-6000,Running,Men,2019-05-02,2019,120,Silver,Metallic Silver/White,180,50,0,
+984,Nike P-6000 White Varsity Red,Nike,P-6000,Running,Men,2019-05-02,2019,120,White,White/Varsity Red,90,-25,0,
+985,adidas Samba OG Sporty & Rich White Bold Gold,adidas,Samba OG,Lifestyle,Women,2023-11-01,2023,120,White,White/Bold Gold,240,100,1,Sporty & Rich
+986,adidas Samba OG Sporty & Rich White Blue,adidas,Samba OG,Lifestyle,Women,2023-11-01,2023,120,White,White/Blue,240,100,1,Sporty & Rich
+987,adidas Gazelle Indoor Sean Wotherspoon Hemp,adidas,Gazelle Indoor,Lifestyle,Men,2023-08-01,2023,140,Brown,Hemp/Brown,280,100,1,Sean Wotherspoon
+988,New Balance 550 Action Bronson Baklava,New Balance,550,Basketball,Men,2023-03-17,2023,150,Green,Baklava Green/Orange,450,200,1,Action Bronson
+989,New Balance 990v6 Action Bronson Lapis Lazuli,New Balance,990v6,Running,Men,2023-03-24,2023,220,Blue,Lapis Lazuli/Neon,660,200,1,Action Bronson
+990,New Balance 990v6 Action Bronson Baklava,New Balance,990v6,Running,Men,2023-06-30,2023,220,Green,Baklava Green/Brown,660,200,1,Action Bronson
+991,ASICS GT-2160 Cecilie Bahnsen White,ASICS,GT-2160,Lifestyle,Women,2023-11-22,2023,225,White,White/White,675,200,1,Cecilie Bahnsen
+992,ASICS GT-2160 Cecilie Bahnsen Black,ASICS,GT-2160,Lifestyle,Women,2023-11-22,2023,225,Black,Black/Black,675,200,1,Cecilie Bahnsen
+993,Salomon XT-6 A.P.C. White,Salomon,XT-6,Lifestyle,Unisex,2021-09-03,2021,220,White,White/Beige,440,100,1,A.P.C.
+994,Salomon XT-6 A.P.C. Brown,Salomon,XT-6,Lifestyle,Unisex,2021-09-03,2021,220,Brown,Brown/Beige,440,100,1,A.P.C.
+995,Hoka Tor Ultra Low Bodega Mountain Spring,Hoka One One,Tor Ultra Low,Lifestyle,Men,2019-09-13,2019,220,Blue,Mountain Spring/Black,440,100,1,Bodega
+996,Brooks Ghost 14 Run Visible,Brooks,Ghost 14,Running,Men,2021-10-01,2021,140,Yellow,Volt/Reflective,105,-25,0,
+997,Saucony Endorphin Elite Hyper Green,Saucony,Endorphin Elite,Running,Men,2023-02-21,2023,275,Green,Hyper Green/Black,412.5,50,0,
+998,Mizuno Wave Rebellion Pro 2 Saffron,Mizuno,Wave Rebellion Pro 2,Running,Men,2024-01-01,2024,250,Orange,Saffron/White,375,50,0,
+999,On Cloudspark All Black,On,Cloudspark,Running,Men,2024-02-01,2024,170,Black,Black/Black,127.5,-25,0,
+1000,On Cloudmonster Hyper White Green,On,Cloudmonster Hyper,Running,Men,2024-03-01,2024,220,White,White/Green,330,50,0,
